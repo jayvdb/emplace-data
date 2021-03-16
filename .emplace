@@ -1,5 +1,10 @@
 ([
 (
+source: Cargo(()),
+name: "emplace",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "py2pack",
 flags: [],
