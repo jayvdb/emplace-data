@@ -6,6 +6,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "pylint",
+flags: [],
+),
+(
+source: Brew(()),
 name: "travis",
 flags: [],
 ),
