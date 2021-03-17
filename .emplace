@@ -5,6 +5,11 @@ name: "emplace",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "gnu-sed",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "py2pack",
 flags: [],
