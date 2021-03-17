@@ -11,6 +11,16 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "dotm",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "dotter",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "emplace",
 flags: [],
 ),
