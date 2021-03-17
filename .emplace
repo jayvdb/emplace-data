@@ -1,6 +1,16 @@
 ([
 (
 source: Cargo(()),
+name: "comtrya",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "dotfiles",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "emplace",
 flags: [],
 ),
@@ -22,6 +32,11 @@ flags: [],
 (
 source: Brew(()),
 name: "travis",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "wagon",
 flags: [],
 ),
 ])
