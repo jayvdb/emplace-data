@@ -35,6 +35,11 @@ name: "py2pack",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "pyflakes",
+flags: [],
+),
+(
 source: Brew(()),
 name: "pylint",
 flags: [],
