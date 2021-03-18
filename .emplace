@@ -30,6 +30,11 @@ name: "gnu-sed",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "pre-commit",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "py2pack",
 flags: [],
