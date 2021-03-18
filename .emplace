@@ -31,7 +31,22 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "asdf",
+flags: [],
+),
+(
+source: Brew(()),
+name: "autojump",
+flags: [],
+),
+(
+source: Brew(()),
 name: "basher",
+flags: [],
+),
+(
+source: Brew(()),
+name: "bat",
 flags: [],
 ),
 (
@@ -106,6 +121,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "delta",
+flags: [],
+),
+(
+source: Brew(()),
 name: "docker",
 flags: [],
 ),
@@ -172,6 +192,11 @@ flags: [],
 (
 source: Brew(()),
 name: "exa",
+flags: [],
+),
+(
+source: Brew(()),
+name: "fd",
 flags: [],
 ),
 (
@@ -307,6 +332,11 @@ flags: [],
 (
 source: Brew(()),
 name: "kbld",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kitty",
 flags: [],
 ),
 (
@@ -486,6 +516,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "ripgrep",
+flags: [],
+),
+(
+source: Brew(()),
 name: "ripgrep-all",
 flags: [],
 ),
@@ -527,6 +562,11 @@ flags: [],
 (
 source: Brew(()),
 name: "ssh-askpass",
+flags: [],
+),
+(
+source: Brew(()),
+name: "starship",
 flags: [],
 ),
 (
