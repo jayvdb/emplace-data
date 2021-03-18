@@ -166,6 +166,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "exa",
+flags: [],
+),
+(
+source: Brew(()),
 name: "findutils",
 flags: [],
 ),
