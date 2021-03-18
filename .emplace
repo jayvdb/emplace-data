@@ -26,6 +26,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "antigen",
+flags: [],
+),
+(
+source: Brew(()),
 name: "basher",
 flags: [],
 ),
