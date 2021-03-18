@@ -1,12 +1,127 @@
 ([
 (
+source: Pip(()),
+name: "\'aws-google-auth[u2f]\'",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "\'aws-google-auth[u2f]\'",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "https://github.com/swift-nav/libsbp.git",
+flags: ["--git"],
+),
+(
+source: Brew(()),
+name: "PyInstaller",
+flags: [],
+),
+(
+source: Brew(()),
+name: "Sphinx",
+flags: [],
+),
+(
+source: Brew(()),
+name: "basher",
+flags: [],
+),
+(
+source: Brew(()),
+name: "bgrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "bingrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "cakebrew",
+flags: [],
+),
+(
+source: Brew(()),
+name: "capnp",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "cargo-make",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "cask",
+flags: [],
+),
+(
+source: Brew(()),
+name: "ccache",
+flags: [],
+),
+(
+source: Brew(()),
+name: "cgrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "check",
+flags: [],
+),
+(
+source: Brew(()),
+name: "cmake",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "comtrya",
+flags: [],
+),
+(
+source: Pip(()),
+name: "conda",
+flags: [],
+),
+(
+source: Brew(()),
+name: "coreutils",
+flags: [],
+),
+(
+source: Brew(()),
+name: "curl",
+flags: [],
+),
+(
+source: Brew(()),
+name: "docker",
+flags: [],
+),
+(
+source: Brew(()),
+name: "docker-config",
+flags: [],
+),
+(
+source: Brew(()),
+name: "docker-machine",
+flags: [],
+),
+(
+source: Brew(()),
+name: "dos2unix",
+flags: [],
+),
+(
+source: Brew(()),
+name: "doteditor",
 flags: [],
 ),
 (
@@ -20,8 +135,23 @@ name: "dotm",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "dotnet",
+flags: [],
+),
+(
+source: Brew(()),
+name: "dotnet-sdk",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "dotter",
+flags: [],
+),
+(
+source: Brew(()),
+name: "doxygen",
 flags: [],
 ),
 (
@@ -31,12 +161,287 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "enable",
+flags: [],
+),
+(
+source: Brew(()),
+name: "findutils",
+flags: [],
+),
+(
+source: Brew(()),
+name: "font-input",
+flags: [],
+),
+(
+source: Brew(()),
+name: "font-microsoft-office",
+flags: [],
+),
+(
+source: Brew(()),
+name: "fzf",
+flags: [],
+),
+(
+source: Brew(()),
+name: "gdb",
+flags: [],
+),
+(
+source: Brew(()),
+name: "gh",
+flags: [],
+),
+(
+source: Brew(()),
+name: "git",
+flags: [],
+),
+(
+source: Brew(()),
+name: "git-gerrit",
+flags: [],
+),
+(
+source: Brew(()),
+name: "git-gui",
+flags: [],
+),
+(
+source: Brew(()),
+name: "git-lfs",
+flags: [],
+),
+(
+source: Brew(()),
+name: "gitg",
+flags: [],
+),
+(
+source: Brew(()),
 name: "gnu-sed",
 flags: [],
 ),
 (
 source: Brew(()),
+name: "gnu-which",
+flags: [],
+),
+(
+source: Brew(()),
+name: "googletest",
+flags: [],
+),
+(
+source: Brew(()),
+name: "gradle",
+flags: [],
+),
+(
+source: Brew(()),
+name: "grep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "gsts",
+flags: [],
+),
+(
+source: Brew(()),
+name: "haskell-stack",
+flags: [],
+),
+(
+source: Brew(()),
+name: "helm",
+flags: [],
+),
+(
+source: Brew(()),
+name: "homebrew-npm-noob",
+flags: [],
+),
+(
+source: Brew(()),
+name: "homebrew/cask/docker",
+flags: [],
+),
+(
+source: Brew(()),
+name: "htop",
+flags: [],
+),
+(
+source: Brew(()),
+name: "hub",
+flags: [],
+),
+(
+source: Brew(()),
+name: "imgpkg",
+flags: [],
+),
+(
+source: Brew(()),
+name: "jvgrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kapp",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kbld",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kubectl",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kubernetes-cli",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kwt",
+flags: [],
+),
+(
+source: Brew(()),
+name: "libjpg",
+flags: [],
+),
+(
+source: Brew(()),
+name: "llvm",
+flags: [],
+),
+(
+source: Brew(()),
+name: "macdaily",
+flags: [],
+),
+(
+source: Brew(()),
+name: "mackup",
+flags: [],
+),
+(
+source: Brew(()),
+name: "mactex",
+flags: [],
+),
+(
+source: Brew(()),
+name: "mas",
+flags: [],
+),
+(
+source: Brew(()),
+name: "miniconda",
+flags: [],
+),
+(
+source: Brew(()),
+name: "miniconda3",
+flags: [],
+),
+(
+source: Brew(()),
+name: "mocha",
+flags: [],
+),
+(
+source: Brew(()),
+name: "mr",
+flags: [],
+),
+(
+source: Brew(()),
+name: "net-tools",
+flags: [],
+),
+(
+source: Brew(()),
+name: "netstat",
+flags: [],
+),
+(
+source: Brew(()),
+name: "ngrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "nmap",
+flags: [],
+),
+(
+source: Brew(()),
+name: "node",
+flags: [],
+),
+(
+source: Brew(()),
+name: "nodejs",
+flags: [],
+),
+(
+source: Brew(()),
+name: "pandoc",
+flags: [],
+),
+(
+source: Brew(()),
+name: "pdfgrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "pdflatex",
+flags: [],
+),
+(
+source: Brew(()),
+name: "pgrep",
+flags: [],
+),
+(
+source: Pip(()),
+name: "pip",
+flags: [],
+),
+(
+source: Brew(()),
+name: "pkg-config",
+flags: [],
+),
+(
+source: Brew(()),
+name: "poet",
+flags: [],
+),
+(
+source: Pip(()),
+name: "poetry",
+flags: [],
+),
+(
+source: Brew(()),
 name: "pre-commit",
+flags: [],
+),
+(
+source: Brew(()),
+name: "psgrep",
 flags: [],
 ),
 (
@@ -55,8 +460,83 @@ name: "pylint",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "pyoxidizer",
+flags: [],
+),
+(
+source: Brew(()),
+name: "python@3.9",
+flags: [],
+),
+(
+source: Brew(()),
+name: "rcm",
+flags: [],
+),
+(
+source: Brew(()),
+name: "ripgrep-all",
+flags: [],
+),
+(
+source: Brew(()),
+name: "rpm",
+flags: [],
+),
+(
+source: Brew(()),
+name: "sed",
+flags: [],
+),
+(
+source: Brew(()),
+name: "sgrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "sngrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "socat",
+flags: [],
+),
+(
+source: Brew(()),
+name: "sphinx-doc",
+flags: [],
+),
+(
+source: Pip(()),
+name: "sphinxcontrib-apidoc",
+flags: [],
+),
+(
+source: Brew(()),
+name: "ssh-askpass",
+flags: [],
+),
+(
+source: Brew(()),
+name: "stow",
+flags: [],
+),
+(
+source: Brew(()),
+name: "swig",
+flags: [],
+),
+(
 source: Brew(()),
 name: "tldr",
+flags: [],
+),
+(
+source: Brew(()),
+name: "tox",
 flags: [],
 ),
 (
@@ -65,8 +545,73 @@ name: "travis",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "ugrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "updatedb",
+flags: [],
+),
+(
+source: Brew(()),
+name: "vcsh",
+flags: [],
+),
+(
+source: Brew(()),
+name: "vendir",
+flags: [],
+),
+(
+source: Brew(()),
+name: "vgrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "virtualbox",
+flags: [],
+),
+(
+source: Pip(()),
+name: "virtualenv",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "wagon",
+flags: [],
+),
+(
+source: Brew(()),
+name: "wget",
+flags: [],
+),
+(
+source: Brew(()),
+name: "xdot",
+flags: [],
+),
+(
+source: Brew(()),
+name: "xquartz",
+flags: [],
+),
+(
+source: Brew(()),
+name: "yadm",
+flags: [],
+),
+(
+source: Brew(()),
+name: "ytt",
+flags: [],
+),
+(
+source: Brew(()),
+name: "zsh",
 flags: [],
 ),
 ])
