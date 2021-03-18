@@ -1,6 +1,11 @@
 ([
 (
 source: Cargo(()),
+name: "cargo-make",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "comtrya",
 flags: [],
 ),
