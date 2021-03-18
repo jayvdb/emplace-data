@@ -614,4 +614,49 @@ source: Brew(()),
 name: "zsh",
 flags: [],
 ),
+(
+source: Brew(()),
+name: "zsh-async",
+flags: [],
+),
+(
+source: Brew(()),
+name: "zsh-autosuggestions",
+flags: [],
+),
+(
+source: Brew(()),
+name: "zsh-completions",
+flags: [],
+),
+(
+source: Brew(()),
+name: "zsh-git-prompt",
+flags: [],
+),
+(
+source: Brew(()),
+name: "zsh-lovers",
+flags: [],
+),
+(
+source: Brew(()),
+name: "zsh-navigation-tools",
+flags: [],
+),
+(
+source: Brew(()),
+name: "zsh-syntax-highlighting",
+flags: [],
+),
+(
+source: Brew(()),
+name: "zsh-you-should-use",
+flags: [],
+),
+(
+source: Brew(()),
+name: "zshdb",
+flags: [],
+),
 ])
