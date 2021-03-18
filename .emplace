@@ -46,6 +46,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "tldr",
+flags: [],
+),
+(
+source: Brew(()),
 name: "travis",
 flags: [],
 ),
