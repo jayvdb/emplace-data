@@ -151,6 +151,11 @@ flags: [],
 ),
 (
 source: Pip3(()),
+name: "docker-clean",
+flags: [],
+),
+(
+source: Pip3(()),
 name: "docker-cleaner",
 flags: [],
 ),
