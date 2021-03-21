@@ -150,6 +150,11 @@ name: "docker",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "docker-cleaner",
+flags: [],
+),
+(
 source: Brew(()),
 name: "docker-config",
 flags: [],
