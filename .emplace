@@ -500,6 +500,11 @@ name: "pyenv",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "pyenv-virtualenv",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "pyflakes",
 flags: [],
