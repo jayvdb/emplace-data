@@ -421,6 +421,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "mupdf",
+flags: [],
+),
+(
+source: Brew(()),
 name: "net-tools",
 flags: [],
 ),
