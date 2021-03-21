@@ -461,6 +461,16 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "mesa-glu",
+flags: [],
+),
+(
+source: Brew(()),
+name: "mesalib-glw",
+flags: [],
+),
+(
+source: Brew(()),
 name: "miniconda",
 flags: [],
 ),
