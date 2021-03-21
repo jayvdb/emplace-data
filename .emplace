@@ -141,6 +141,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "dmenu",
+flags: [],
+),
+(
+source: Brew(()),
 name: "docker",
 flags: [],
 ),
