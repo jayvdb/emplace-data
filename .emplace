@@ -26,6 +26,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "act",
+flags: [],
+),
+(
+source: Brew(()),
 name: "antigen",
 flags: [],
 ),
@@ -216,6 +221,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "fetch",
+flags: [],
+),
+(
+source: Brew(()),
 name: "findutils",
 flags: [],
 ),
@@ -227,6 +237,11 @@ flags: [],
 (
 source: Brew(()),
 name: "font-microsoft-office",
+flags: [],
+),
+(
+source: Brew(()),
+name: "fork-cleaner",
 flags: [],
 ),
 (
@@ -246,7 +261,22 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "ghi",
+flags: [],
+),
+(
+source: Brew(()),
 name: "ghostscript",
+flags: [],
+),
+(
+source: Brew(()),
+name: "ghq",
+flags: [],
+),
+(
+source: Brew(()),
+name: "gibo",
 flags: [],
 ),
 (
@@ -267,6 +297,11 @@ flags: [],
 (
 source: Brew(()),
 name: "git-lfs",
+flags: [],
+),
+(
+source: Brew(()),
+name: "git-standup",
 flags: [],
 ),
 (
