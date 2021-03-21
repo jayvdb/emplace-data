@@ -66,6 +66,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "brew-pip",
+flags: [],
+),
+(
+source: Brew(()),
 name: "cakebrew",
 flags: [],
 ),
