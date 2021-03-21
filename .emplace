@@ -141,6 +141,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "dockutil",
+flags: [],
+),
+(
+source: Brew(()),
 name: "dos2unix",
 flags: [],
 ),
