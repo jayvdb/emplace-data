@@ -95,6 +95,11 @@ name: "check",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "check-manifest",
+flags: [],
+),
+(
 source: Brew(()),
 name: "cmake",
 flags: [],
