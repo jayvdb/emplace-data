@@ -246,6 +246,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "ghostscript",
+flags: [],
+),
+(
+source: Brew(()),
 name: "git",
 flags: [],
 ),
@@ -546,6 +551,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "qpdf",
+flags: [],
+),
+(
+source: Brew(()),
 name: "rcm",
 flags: [],
 ),
@@ -677,6 +687,11 @@ flags: [],
 (
 source: Brew(()),
 name: "xdot",
+flags: [],
+),
+(
+source: Brew(()),
+name: "xpdf",
 flags: [],
 ),
 (
