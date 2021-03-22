@@ -215,6 +215,11 @@ name: "doxygen",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "elm",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "emplace",
 flags: [],
@@ -511,6 +516,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "nginx",
+flags: [],
+),
+(
+source: Brew(()),
 name: "ngrep",
 flags: [],
 ),
@@ -632,6 +642,11 @@ flags: [],
 (
 source: Brew(()),
 name: "rcm",
+flags: [],
+),
+(
+source: Brew(()),
+name: "redis",
 flags: [],
 ),
 (
