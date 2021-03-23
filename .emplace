@@ -136,6 +136,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "cvs",
+flags: [],
+),
+(
+source: Brew(()),
 name: "delta",
 flags: [],
 ),
