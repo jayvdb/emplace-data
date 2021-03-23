@@ -716,6 +716,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "svn",
+flags: [],
+),
+(
+source: Brew(()),
 name: "swig",
 flags: [],
 ),
