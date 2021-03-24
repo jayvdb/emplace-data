@@ -406,6 +406,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "jq",
+flags: [],
+),
+(
+source: Brew(()),
 name: "jvgrep",
 flags: [],
 ),
