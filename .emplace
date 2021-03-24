@@ -71,6 +71,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "buildkit",
+flags: [],
+),
+(
+source: Brew(()),
 name: "cakebrew",
 flags: [],
 ),
