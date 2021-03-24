@@ -56,6 +56,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "bazel",
+flags: [],
+),
+(
+source: Brew(()),
 name: "bgrep",
 flags: [],
 ),
