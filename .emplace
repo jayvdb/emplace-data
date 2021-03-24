@@ -706,6 +706,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "saml2aws",
+flags: [],
+),
+(
+source: Brew(()),
 name: "sed",
 flags: [],
 ),
