@@ -246,6 +246,16 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "ext2fuse",
+flags: [],
+),
+(
+source: Brew(()),
+name: "ext4fuse",
+flags: [],
+),
+(
+source: Brew(()),
 name: "fd",
 flags: [],
 ),
