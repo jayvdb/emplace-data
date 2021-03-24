@@ -551,6 +551,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "osxfuse",
+flags: [],
+),
+(
+source: Brew(()),
 name: "pandoc",
 flags: [],
 ),
