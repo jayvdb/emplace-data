@@ -570,6 +570,11 @@ name: "pgrep",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "piksi-firmware-toolchain",
+flags: [],
+),
+(
 source: Pip(()),
 name: "pip",
 flags: [],
