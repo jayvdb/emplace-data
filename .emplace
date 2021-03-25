@@ -745,6 +745,11 @@ name: "pypy3",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "pytest",
+flags: [],
+),
+(
 source: Brew(()),
 name: "python@3.9",
 flags: [],
