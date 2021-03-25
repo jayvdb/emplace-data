@@ -685,6 +685,11 @@ name: "psgrep",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "psutils",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "py2pack",
 flags: [],
