@@ -15,6 +15,16 @@ name: "https://github.com/swift-nav/libsbp.git",
 flags: ["--git"],
 ),
 (
+source: Pip3(()),
+name: "Brotli",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "Flask",
+flags: [],
+),
+(
 source: Brew(()),
 name: "PyInstaller",
 flags: [],
@@ -365,6 +375,11 @@ name: "gitg",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "glfw",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gnu-sed",
 flags: [],
@@ -425,6 +440,16 @@ name: "hub",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "hypothesis",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "idna",
+flags: [],
+),
+(
 source: Brew(()),
 name: "imgpkg",
 flags: [],
@@ -477,6 +502,11 @@ flags: [],
 (
 source: Brew(()),
 name: "llvm",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "lxml",
 flags: [],
 ),
 (
@@ -580,8 +610,18 @@ name: "osxfuse",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "pandas",
+flags: [],
+),
+(
 source: Brew(()),
 name: "pandoc",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "passlib",
 flags: [],
 ),
 (
@@ -592,6 +632,11 @@ flags: [],
 (
 source: Brew(()),
 name: "pdflatex",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "pendulum",
 flags: [],
 ),
 (
@@ -612,6 +657,11 @@ flags: [],
 (
 source: Brew(()),
 name: "pkg-config",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "pmw",
 flags: [],
 ),
 (
@@ -637,6 +687,11 @@ flags: [],
 (
 source: Pip3(()),
 name: "py2pack",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "pycairo",
 flags: [],
 ),
 (
@@ -710,6 +765,11 @@ name: "rpm",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "rsa",
+flags: [],
+),
+(
 source: Brew(()),
 name: "saml2aws",
 flags: [],
@@ -722,6 +782,11 @@ flags: [],
 (
 source: Brew(()),
 name: "sgrep",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "sip",
 flags: [],
 ),
 (
