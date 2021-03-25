@@ -61,6 +61,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "berkeley-db",
+flags: [],
+),
+(
+source: Brew(()),
 name: "bgrep",
 flags: [],
 ),
