@@ -85,6 +85,11 @@ name: "bingrep",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "boto3",
+flags: [],
+),
+(
 source: Brew(()),
 name: "brew-pip",
 flags: [],
@@ -552,6 +557,11 @@ flags: [],
 (
 source: Brew(()),
 name: "mocha",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "moto",
 flags: [],
 ),
 (
