@@ -415,6 +415,11 @@ name: "gitg",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "glfw",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "glfw",
 flags: [],
@@ -487,6 +492,11 @@ flags: [],
 (
 source: Pip3(()),
 name: "hypothesis",
+flags: [],
+),
+(
+source: Pip(()),
+name: "idna",
 flags: [],
 ),
 (
@@ -680,6 +690,11 @@ name: "osxfuse",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "pandas",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "pandas",
 flags: [],
@@ -692,6 +707,11 @@ flags: [],
 (
 source: Gem(()),
 name: "parallel_tests",
+flags: [],
+),
+(
+source: Pip(()),
+name: "passlib",
 flags: [],
 ),
 (
@@ -712,6 +732,11 @@ flags: [],
 (
 source: Brew(()),
 name: "pdflatex",
+flags: [],
+),
+(
+source: Pip(()),
+name: "pendulum",
 flags: [],
 ),
 (
