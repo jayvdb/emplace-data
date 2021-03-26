@@ -635,6 +635,11 @@ name: "nodejs",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "nokogiri",
+flags: [],
+),
+(
 source: Brew(()),
 name: "osxfuse",
 flags: [],
