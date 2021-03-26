@@ -10,6 +10,11 @@ name: "\'aws-google-auth[u2f]\'",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "pypy3",
+flags: ["--HEAD"],
+),
+(
 source: Cargo(()),
 name: "https://github.com/swift-nav/libsbp.git",
 flags: ["--git"],
