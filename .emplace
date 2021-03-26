@@ -105,6 +105,11 @@ name: "buildkit",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "bundler",
+flags: [],
+),
+(
 source: Brew(()),
 name: "cakebrew",
 flags: [],
