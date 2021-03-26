@@ -815,6 +815,11 @@ name: "sgrep",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "shared-mime-info",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "sip",
 flags: [],
