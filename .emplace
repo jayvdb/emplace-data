@@ -426,6 +426,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "hg",
+flags: [],
+),
+(
+source: Brew(()),
 name: "homebrew-npm-noob",
 flags: [],
 ),
