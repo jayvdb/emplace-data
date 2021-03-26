@@ -45,6 +45,11 @@ name: "act",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "activesupport",
+flags: [],
+),
+(
 source: Brew(()),
 name: "antigen",
 flags: [],
@@ -90,6 +95,11 @@ name: "bingrep",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "bootsnap",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "boto3",
 flags: [],
@@ -107,6 +117,11 @@ flags: [],
 (
 source: Gem(()),
 name: "bundler",
+flags: [],
+),
+(
+source: Gem(()),
+name: "byebug",
 flags: [],
 ),
 (
@@ -155,8 +170,18 @@ name: "cmake",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "codecov",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "comtrya",
+flags: [],
+),
+(
+source: Gem(()),
+name: "concurrent-ruby",
 flags: [],
 ),
 (
@@ -550,6 +575,11 @@ name: "mas",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "mechanize",
+flags: [],
+),
+(
 source: Brew(()),
 name: "mesa-glu",
 flags: [],
@@ -572,6 +602,11 @@ flags: [],
 (
 source: Brew(()),
 name: "miniconda3",
+flags: [],
+),
+(
+source: Gem(()),
+name: "minitest",
 flags: [],
 ),
 (
@@ -655,8 +690,18 @@ name: "pandoc",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "parallel_tests",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "passlib",
+flags: [],
+),
+(
+source: Gem(()),
+name: "patchelf",
 flags: [],
 ),
 (
@@ -692,6 +737,11 @@ flags: [],
 (
 source: Brew(()),
 name: "pkg-config",
+flags: [],
+),
+(
+source: Gem(()),
+name: "plist",
 flags: [],
 ),
 (
@@ -810,6 +860,11 @@ name: "ripgrep-all",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "ronn",
+flags: [],
+),
+(
 source: Brew(()),
 name: "rpm",
 flags: [],
@@ -817,6 +872,71 @@ flags: [],
 (
 source: Pip3(()),
 name: "rsa",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rspec",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rspec-github",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rspec-its",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rspec-retry",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rspec-sorbet",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rspec-wait",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rubocop",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rubocop-ast",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rubocop-performance",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rubocop-rails",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rubocop-rspec",
+flags: [],
+),
+(
+source: Gem(()),
+name: "rubocop-sorbet",
+flags: [],
+),
+(
+source: Gem(()),
+name: "ruby-macho",
 flags: [],
 ),
 (
@@ -840,6 +960,11 @@ name: "shared-mime-info",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "simplecov",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "sip",
 flags: [],
@@ -852,6 +977,21 @@ flags: [],
 (
 source: Brew(()),
 name: "socat",
+flags: [],
+),
+(
+source: Gem(()),
+name: "sorbet",
+flags: [],
+),
+(
+source: Gem(()),
+name: "sorbet-runtime",
+flags: [],
+),
+(
+source: Gem(()),
+name: "sorbet-runtime-stub",
 flags: [],
 ),
 (
@@ -887,6 +1027,11 @@ flags: [],
 (
 source: Brew(()),
 name: "swig",
+flags: [],
+),
+(
+source: Gem(()),
+name: "tapioca",
 flags: [],
 ),
 (
@@ -942,6 +1087,11 @@ flags: [],
 (
 source: Cargo(()),
 name: "wagon",
+flags: [],
+),
+(
+source: Gem(()),
+name: "warning",
 flags: [],
 ),
 (
