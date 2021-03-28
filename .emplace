@@ -845,6 +845,16 @@ name: "pypy3",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "pyqt-builder",
+flags: [],
+),
+(
+source: Brew(()),
+name: "pyside@2",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "pytest",
 flags: [],
@@ -857,6 +867,11 @@ flags: [],
 (
 source: Brew(()),
 name: "qpdf",
+flags: [],
+),
+(
+source: Brew(()),
+name: "qpm",
 flags: [],
 ),
 (
