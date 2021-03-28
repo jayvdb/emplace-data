@@ -851,6 +851,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "pyside",
+flags: [],
+),
+(
+source: Brew(()),
 name: "pyside@2",
 flags: [],
 ),
