@@ -880,6 +880,11 @@ name: "qpm",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "quilt",
+flags: [],
+),
+(
 source: Gem(()),
 name: "rails",
 flags: [],
