@@ -556,6 +556,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "libicns",
+flags: [],
+),
+(
+source: Brew(()),
 name: "libjpg",
 flags: [],
 ),
