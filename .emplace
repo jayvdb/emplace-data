@@ -341,6 +341,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "folderify",
+flags: [],
+),
+(
+source: Brew(()),
 name: "font-input",
 flags: [],
 ),
