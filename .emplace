@@ -215,6 +215,11 @@ name: "dmenu",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "dmgbuild",
+flags: [],
+),
+(
 source: Brew(()),
 name: "docker",
 flags: [],
