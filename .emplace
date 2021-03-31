@@ -885,6 +885,11 @@ name: "pyside",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "pyside6",
+flags: [],
+),
+(
 source: Brew(()),
 name: "pyside@2",
 flags: [],
