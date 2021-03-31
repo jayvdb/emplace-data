@@ -785,6 +785,11 @@ name: "pkg-config",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "pkgconfig",
+flags: [],
+),
+(
 source: Gem(()),
 name: "plist",
 flags: [],
