@@ -886,6 +886,11 @@ flags: [],
 ),
 (
 source: Pip(()),
+name: "pyside2",
+flags: [],
+),
+(
+source: Pip(()),
 name: "pyside6",
 flags: [],
 ),
