@@ -1125,6 +1125,11 @@ name: "swig",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "swig@3",
+flags: [],
+),
+(
 source: Gem(()),
 name: "tapioca",
 flags: [],
