@@ -921,6 +921,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "qt@5",
+flags: [],
+),
+(
+source: Brew(()),
 name: "quilt",
 flags: [],
 ),
