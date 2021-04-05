@@ -296,6 +296,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "duckscript",
+flags: [],
+),
+(
+source: Brew(()),
 name: "elm",
 flags: [],
 ),
