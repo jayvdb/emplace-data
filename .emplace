@@ -525,6 +525,11 @@ name: "idna",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "igittigitt",
+flags: [],
+),
+(
 source: Brew(()),
 name: "imgpkg",
 flags: [],
