@@ -945,6 +945,11 @@ name: "quilt",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "qwt",
+flags: [],
+),
+(
 source: Gem(()),
 name: "rails",
 flags: [],
