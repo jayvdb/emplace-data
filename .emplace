@@ -440,6 +440,11 @@ name: "gitg",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "gitter",
+flags: [],
+),
+(
 source: Pip(()),
 name: "glfw",
 flags: [],
