@@ -1246,7 +1246,17 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "wmctrl",
+flags: [],
+),
+(
+source: Brew(()),
 name: "xdot",
+flags: [],
+),
+(
+source: Brew(()),
+name: "xdotool",
 flags: [],
 ),
 (
