@@ -35,8 +35,18 @@ name: "Flask",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "PyGObject",
+flags: [],
+),
+(
 source: Brew(()),
 name: "PyInstaller",
+flags: [],
+),
+(
+source: Pip(()),
+name: "PyYAML",
 flags: [],
 ),
 (
@@ -207,6 +217,11 @@ flags: [],
 (
 source: Brew(()),
 name: "cvs",
+flags: [],
+),
+(
+source: Pip(()),
+name: "dbus-python",
 flags: [],
 ),
 (
@@ -897,6 +912,11 @@ flags: [],
 (
 source: Brew(()),
 name: "pyqt-builder",
+flags: [],
+),
+(
+source: Pip(()),
+name: "pyqt5",
 flags: [],
 ),
 (
