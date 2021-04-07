@@ -936,6 +936,16 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "qt-creator",
+flags: [],
+),
+(
+source: Brew(()),
+name: "qt-creator-dev",
+flags: [],
+),
+(
+source: Brew(()),
 name: "qt@5",
 flags: [],
 ),
