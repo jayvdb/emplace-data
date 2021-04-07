@@ -946,7 +946,17 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "qt-design-studio",
+flags: [],
+),
+(
+source: Brew(()),
 name: "qt@5",
+flags: [],
+),
+(
+source: Brew(()),
+name: "qtvlm",
 flags: [],
 ),
 (
