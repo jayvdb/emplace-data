@@ -181,6 +181,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "clang-format",
+flags: [],
+),
+(
+source: Brew(()),
 name: "cmake",
 flags: [],
 ),
@@ -566,6 +571,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "julia",
+flags: [],
+),
+(
+source: Brew(()),
 name: "jvgrep",
 flags: [],
 ),
@@ -582,6 +592,11 @@ flags: [],
 (
 source: Brew(()),
 name: "kitty",
+flags: [],
+),
+(
+source: Brew(()),
+name: "kotlin",
 flags: [],
 ),
 (
@@ -717,6 +732,11 @@ flags: [],
 (
 source: Brew(()),
 name: "ngrep",
+flags: [],
+),
+(
+source: Brew(()),
+name: "nim",
 flags: [],
 ),
 (
