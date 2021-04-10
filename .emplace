@@ -1266,6 +1266,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "uncrustify",
+flags: [],
+),
+(
+source: Brew(()),
 name: "updatedb",
 flags: [],
 ),
