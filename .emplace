@@ -665,6 +665,11 @@ name: "mas",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "mc",
+flags: [],
+),
+(
 source: Gem(()),
 name: "mechanize",
 flags: [],
