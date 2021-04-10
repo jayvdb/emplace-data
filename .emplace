@@ -225,6 +225,11 @@ name: "cvs",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "dart",
+flags: [],
+),
+(
 source: Pip(()),
 name: "dbus-python",
 flags: [],
@@ -597,6 +602,11 @@ flags: [],
 (
 source: Brew(()),
 name: "kotlin",
+flags: [],
+),
+(
+source: Brew(()),
+name: "ktlint",
 flags: [],
 ),
 (
