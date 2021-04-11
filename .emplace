@@ -155,6 +155,11 @@ name: "cargo-make",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "cargo-script",
+flags: [],
+),
+(
 source: Brew(()),
 name: "cask",
 flags: [],
