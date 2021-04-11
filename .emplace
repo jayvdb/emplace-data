@@ -1150,6 +1150,11 @@ name: "runner",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "rust-script",
+flags: [],
+),
+(
 source: Brew(()),
 name: "saml2aws",
 flags: [],
