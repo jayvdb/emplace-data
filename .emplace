@@ -990,6 +990,11 @@ name: "pytest",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "pytest-httpbin",
+flags: [],
+),
+(
 source: Brew(()),
 name: "python@3.9",
 flags: [],
