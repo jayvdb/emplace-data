@@ -995,6 +995,11 @@ name: "pytest-httpbin",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "pytest-timeout",
+flags: [],
+),
+(
 source: Brew(()),
 name: "python@3.9",
 flags: [],
