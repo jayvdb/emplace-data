@@ -1060,6 +1060,11 @@ name: "redis",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "requests-mock",
+flags: [],
+),
+(
 source: Brew(()),
 name: "ripgrep",
 flags: [],
