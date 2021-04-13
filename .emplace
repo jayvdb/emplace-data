@@ -1270,6 +1270,11 @@ name: "tapioca",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "timeout-decorator",
+flags: [],
+),
+(
 source: Brew(()),
 name: "tldr",
 flags: [],
