@@ -1060,6 +1060,11 @@ name: "rcm",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "redis",
+flags: [],
+),
+(
 source: Brew(()),
 name: "redis",
 flags: [],
