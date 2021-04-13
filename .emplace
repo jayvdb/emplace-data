@@ -1390,6 +1390,11 @@ name: "yadm",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "yamllint",
+flags: [],
+),
+(
 source: Brew(()),
 name: "ytt",
 flags: [],
