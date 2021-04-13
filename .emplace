@@ -1001,6 +1001,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "python@3.7",
+flags: [],
+),
+(
+source: Brew(()),
 name: "python@3.9",
 flags: [],
 ),
