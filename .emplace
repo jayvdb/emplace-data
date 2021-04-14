@@ -611,6 +611,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "kotlin-native",
+flags: [],
+),
+(
+source: Brew(()),
 name: "ktlint",
 flags: [],
 ),
