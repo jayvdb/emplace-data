@@ -621,6 +621,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "kscript",
+flags: [],
+),
+(
+source: Brew(()),
 name: "ktlint",
 flags: [],
 ),
