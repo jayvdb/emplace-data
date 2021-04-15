@@ -1375,6 +1375,11 @@ name: "wget",
 flags: [],
 ),
 (
+source: Go(()),
+name: "winterdrache.de/goformat/goformat",
+flags: [],
+),
+(
 source: Brew(()),
 name: "wmctrl",
 flags: [],
