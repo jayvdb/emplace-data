@@ -751,6 +751,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "mypy",
+flags: [],
+),
+(
+source: Brew(()),
 name: "net-tools",
 flags: [],
 ),
