@@ -480,6 +480,11 @@ name: "gitg",
 flags: [],
 ),
 (
+source: Go(()),
+name: "github.com/cosmos72/gomacro",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gitter",
 flags: [],
