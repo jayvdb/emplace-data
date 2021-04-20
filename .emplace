@@ -195,6 +195,11 @@ name: "clang-format",
 flags: [],
 ),
 (
+source: Rustup(()),
+name: "clippy",
+flags: [],
+),
+(
 source: Brew(()),
 name: "cmake",
 flags: [],
