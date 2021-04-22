@@ -55,6 +55,11 @@ name: "Sphinx",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "Transcrypt",
+flags: [],
+),
+(
 source: Brew(()),
 name: "act",
 flags: [],
