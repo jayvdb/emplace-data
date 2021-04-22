@@ -360,6 +360,11 @@ name: "eslint",
 flags: [],
 ),
 (
+source: Npm(()),
+name: "eslint-plugin-qml-js",
+flags: [],
+),
+(
 source: Brew(()),
 name: "evince",
 flags: [],
