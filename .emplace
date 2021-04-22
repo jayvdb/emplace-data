@@ -1110,6 +1110,11 @@ name: "rails",
 flags: [],
 ),
 (
+source: Npm(()),
+name: "rapydscript",
+flags: [],
+),
+(
 source: Brew(()),
 name: "rcm",
 flags: [],
