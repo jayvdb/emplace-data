@@ -940,6 +940,11 @@ name: "pre-commit",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "pseudo-python",
+flags: [],
+),
+(
 source: Brew(()),
 name: "psgrep",
 flags: [],
