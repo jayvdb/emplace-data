@@ -356,6 +356,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "eslint",
+flags: [],
+),
+(
+source: Brew(()),
 name: "evince",
 flags: [],
 ),
