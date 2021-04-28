@@ -1245,6 +1245,11 @@ name: "sed",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "setuptools_rust",
+flags: [],
+),
+(
 source: Brew(()),
 name: "sgrep",
 flags: [],
