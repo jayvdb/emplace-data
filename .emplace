@@ -406,6 +406,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "flutter",
+flags: [],
+),
+(
+source: Brew(()),
 name: "folderify",
 flags: [],
 ),
