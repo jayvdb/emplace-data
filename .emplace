@@ -501,6 +501,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "git-workspace",
+flags: [],
+),
+(
+source: Brew(()),
 name: "gitg",
 flags: [],
 ),
