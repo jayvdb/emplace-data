@@ -25,6 +25,11 @@ name: "Brotli",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "Cython",
+flags: [],
+),
+(
 source: Pip(()),
 name: "Cython",
 flags: [],
