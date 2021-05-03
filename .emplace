@@ -616,6 +616,11 @@ flags: [],
 ),
 (
 source: Pip3(()),
+name: "hyperlink",
+flags: [],
+),
+(
+source: Pip3(()),
 name: "hypothesis",
 flags: [],
 ),
