@@ -1400,6 +1400,11 @@ name: "tapioca",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "tenacity",
+flags: [],
+),
+(
 source: Pip(()),
 name: "timeout-decorator",
 flags: [],
