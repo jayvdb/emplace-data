@@ -900,6 +900,11 @@ name: "passlib",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "patch",
+flags: [],
+),
+(
 source: Gem(()),
 name: "patchelf",
 flags: [],
