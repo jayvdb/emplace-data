@@ -1435,6 +1435,11 @@ name: "vendir",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "versioneer",
+flags: [],
+),
+(
 source: Brew(()),
 name: "vgrep",
 flags: [],
