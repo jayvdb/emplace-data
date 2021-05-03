@@ -90,8 +90,18 @@ name: "asdf",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "autoflake",
+flags: [],
+),
+(
 source: Brew(()),
 name: "autojump",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "autopep8",
 flags: [],
 ),
 (
