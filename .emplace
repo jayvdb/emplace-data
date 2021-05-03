@@ -1460,6 +1460,11 @@ name: "versioneer",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "versioneer-518",
+flags: [],
+),
+(
 source: Brew(()),
 name: "vgrep",
 flags: [],
