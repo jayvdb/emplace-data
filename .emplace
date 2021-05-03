@@ -420,6 +420,11 @@ name: "findutils",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "flake8",
+flags: [],
+),
+(
 source: Brew(()),
 name: "flutter",
 flags: [],
