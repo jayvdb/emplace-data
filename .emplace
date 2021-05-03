@@ -980,6 +980,11 @@ name: "pycairo",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "pycodestyle",
+flags: [],
+),
+(
 source: Brew(()),
 name: "pyenv",
 flags: [],
