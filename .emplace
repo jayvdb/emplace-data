@@ -746,6 +746,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "lapack",
+flags: [],
+),
+(
+source: Brew(()),
 name: "libicns",
 flags: [],
 ),
@@ -897,6 +902,16 @@ flags: [],
 (
 source: Gem(()),
 name: "nokogiri",
+flags: [],
+),
+(
+source: Brew(()),
+name: "open-mpi",
+flags: [],
+),
+(
+source: Brew(()),
+name: "openblas",
 flags: [],
 ),
 (
