@@ -596,6 +596,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "help2man",
+flags: [],
+),
+(
+source: Brew(()),
 name: "hg",
 flags: [],
 ),
