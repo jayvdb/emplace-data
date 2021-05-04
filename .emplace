@@ -545,6 +545,11 @@ name: "github.com/cosmos72/gomacro",
 flags: [],
 ),
 (
+source: Go(()),
+name: "github.com/google/go-cmp/cmp",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gitter",
 flags: [],
