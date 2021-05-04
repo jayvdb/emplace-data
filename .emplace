@@ -11,6 +11,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "nim",
+flags: ["--HEAD"],
+),
+(
+source: Brew(()),
 name: "pypy3",
 flags: ["--HEAD"],
 ),
