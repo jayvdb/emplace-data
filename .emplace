@@ -536,6 +536,11 @@ flags: [],
 ),
 (
 source: Go(()),
+name: "github.com/adsharma/py2many",
+flags: [],
+),
+(
+source: Go(()),
 name: "github.com/cosmos72/gomacro",
 flags: [],
 ),
