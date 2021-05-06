@@ -261,6 +261,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "cpplint",
+flags: [],
+),
+(
+source: Brew(()),
 name: "curl",
 flags: [],
 ),
