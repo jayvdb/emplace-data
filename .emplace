@@ -1475,6 +1475,11 @@ name: "tldr",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "tox",
+flags: [],
+),
+(
 source: Brew(()),
 name: "tox",
 flags: [],
