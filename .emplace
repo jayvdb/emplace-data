@@ -26,6 +26,11 @@ flags: ["--git"],
 ),
 (
 source: Pip3(()),
+name: "black",
+flags: ["--user"],
+),
+(
+source: Pip3(()),
 name: "Brotli",
 flags: [],
 ),
