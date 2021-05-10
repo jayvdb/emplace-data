@@ -31,6 +31,11 @@ flags: ["--user"],
 ),
 (
 source: Pip3(()),
+name: "pylint",
+flags: ["--user"],
+),
+(
+source: Pip3(()),
 name: "Brotli",
 flags: [],
 ),
