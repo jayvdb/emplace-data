@@ -185,6 +185,11 @@ name: "bundler",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "bvi",
+flags: [],
+),
+(
 source: Gem(()),
 name: "byebug",
 flags: [],
