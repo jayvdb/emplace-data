@@ -1231,6 +1231,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "quicktype",
+flags: [],
+),
+(
+source: Brew(()),
 name: "quilt",
 flags: [],
 ),
