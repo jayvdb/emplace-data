@@ -621,6 +621,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "golangci-lint",
+flags: [],
+),
+(
+source: Brew(()),
 name: "googletest",
 flags: [],
 ),
@@ -1457,6 +1462,11 @@ flags: [],
 (
 source: Brew(()),
 name: "starship",
+flags: [],
+),
+(
+source: Brew(()),
+name: "staticcheck",
 flags: [],
 ),
 (
