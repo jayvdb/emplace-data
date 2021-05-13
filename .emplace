@@ -545,6 +545,11 @@ name: "git-gui",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "git-hooks-manager",
+flags: [],
+),
+(
 source: Brew(()),
 name: "git-lfs",
 flags: [],
@@ -947,6 +952,11 @@ flags: [],
 (
 source: Brew(()),
 name: "openblas",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "osoy",
 flags: [],
 ),
 (
