@@ -1385,6 +1385,11 @@ name: "runner",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "rust-analyzer",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "rust-script",
 flags: [],
