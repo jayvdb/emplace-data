@@ -656,6 +656,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "hadolint",
+flags: [],
+),
+(
+source: Brew(()),
 name: "haskell-stack",
 flags: [],
 ),
