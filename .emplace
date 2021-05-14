@@ -640,6 +640,11 @@ name: "gradle",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "grcov",
+flags: [],
+),
+(
 source: Brew(()),
 name: "grep",
 flags: [],
