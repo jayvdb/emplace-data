@@ -970,6 +970,11 @@ name: "openblas",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "oracle-jdk",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "osoy",
 flags: [],
