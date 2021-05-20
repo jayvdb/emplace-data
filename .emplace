@@ -801,6 +801,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "lcov",
+flags: [],
+),
+(
+source: Brew(()),
 name: "libicns",
 flags: [],
 ),
