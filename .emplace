@@ -830,6 +830,26 @@ name: "llvm-tools-preview",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "llvm@11",
+flags: [],
+),
+(
+source: Brew(()),
+name: "llvm@7",
+flags: [],
+),
+(
+source: Brew(()),
+name: "llvm@8",
+flags: [],
+),
+(
+source: Brew(()),
+name: "llvm@9",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "lxml",
 flags: [],
