@@ -175,6 +175,11 @@ name: "brew-pip",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "brewfile",
+flags: [],
+),
+(
 source: Brew(()),
 name: "buildkit",
 flags: [],
