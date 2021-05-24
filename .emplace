@@ -216,6 +216,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-eval",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-make",
 flags: [],
 ),
