@@ -226,6 +226,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-play",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-script",
 flags: [],
 ),
