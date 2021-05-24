@@ -211,6 +211,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-dylint",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-make",
 flags: [],
 ),
