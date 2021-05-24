@@ -1465,6 +1465,11 @@ name: "sbp",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "scriptisto",
+flags: [],
+),
+(
 source: Brew(()),
 name: "sed",
 flags: [],
