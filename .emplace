@@ -611,6 +611,11 @@ flags: [],
 ),
 (
 source: Go(()),
+name: "github.com/gopherjs/gopherjs",
+flags: [],
+),
+(
+source: Go(()),
 name: "github.com/hgfischer/go-iter",
 flags: [],
 ),
