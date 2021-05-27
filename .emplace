@@ -820,6 +820,11 @@ name: "lapack",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "lark-parser",
+flags: [],
+),
+(
 source: Brew(()),
 name: "lcov",
 flags: [],
@@ -1047,6 +1052,11 @@ flags: [],
 (
 source: Gem(()),
 name: "parallel_tests",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "parameterized",
 flags: [],
 ),
 (
