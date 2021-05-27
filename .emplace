@@ -1350,6 +1350,11 @@ name: "rapydscript",
 flags: [],
 ),
 (
+source: Npm(()),
+name: "rapydscript-ng",
+flags: [],
+),
+(
 source: Brew(()),
 name: "rcm",
 flags: [],
