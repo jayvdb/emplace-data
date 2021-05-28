@@ -1585,6 +1585,11 @@ name: "stow",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "strip-hints",
+flags: [],
+),
+(
 source: Brew(()),
 name: "svn",
 flags: [],
