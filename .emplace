@@ -686,6 +686,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "hashlink",
+flags: [],
+),
+(
+source: Brew(()),
 name: "haskell-stack",
 flags: [],
 ),
