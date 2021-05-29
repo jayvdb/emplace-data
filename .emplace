@@ -96,6 +96,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "android-sdk",
+flags: [],
+),
+(
+source: Brew(()),
 name: "antigen",
 flags: [],
 ),
