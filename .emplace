@@ -1561,6 +1561,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "spack",
+flags: [],
+),
+(
+source: Brew(()),
 name: "sphinx-doc",
 flags: [],
 ),
