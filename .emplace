@@ -115,6 +115,16 @@ name: "asdf",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "astor",
+flags: [],
+),
+(
+source: Pip3(()),
+name: "astunparse",
+flags: [],
+),
+(
 source: Brew(()),
 name: "astyle",
 flags: [],
