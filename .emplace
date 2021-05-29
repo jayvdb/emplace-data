@@ -786,6 +786,11 @@ flags: [],
 ),
 (
 source: Pip(()),
+name: "invoke",
+flags: [],
+),
+(
+source: Pip(()),
 name: "javascripthon",
 flags: [],
 ),
