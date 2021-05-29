@@ -101,6 +101,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "android-studio",
+flags: [],
+),
+(
+source: Brew(()),
 name: "antigen",
 flags: [],
 ),
