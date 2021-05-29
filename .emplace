@@ -1385,6 +1385,11 @@ name: "redis",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "repo",
+flags: [],
+),
+(
 source: Pip(()),
 name: "requests-mock",
 flags: [],
