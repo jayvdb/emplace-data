@@ -775,6 +775,11 @@ name: "imgpkg",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "javascripthon",
+flags: [],
+),
+(
 source: Brew(()),
 name: "jq",
 flags: [],
@@ -1177,6 +1182,11 @@ flags: [],
 (
 source: Brew(()),
 name: "pre-commit",
+flags: [],
+),
+(
+source: Pip(()),
+name: "pscript",
 flags: [],
 ),
 (
