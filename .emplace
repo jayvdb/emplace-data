@@ -160,6 +160,11 @@ name: "black",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "boost",
+flags: [],
+),
+(
 source: Gem(()),
 name: "bootsnap",
 flags: [],
