@@ -950,6 +950,11 @@ name: "mechanize",
 flags: [],
 ),
 (
+source: Pip3(()),
+name: "memory-profiler",
+flags: [],
+),
+(
 source: Brew(()),
 name: "mesa-glu",
 flags: [],
