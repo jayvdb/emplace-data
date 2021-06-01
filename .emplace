@@ -1346,6 +1346,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "pyzo",
+flags: [],
+),
+(
+source: Brew(()),
 name: "qpdf",
 flags: [],
 ),
