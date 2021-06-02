@@ -326,6 +326,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "cppcheck",
+flags: [],
+),
+(
+source: Brew(()),
 name: "cpplint",
 flags: [],
 ),
