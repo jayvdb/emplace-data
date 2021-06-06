@@ -1176,6 +1176,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "pipx",
+flags: [],
+),
+(
+source: Brew(()),
 name: "pkg-config",
 flags: [],
 ),
