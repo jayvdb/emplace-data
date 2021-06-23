@@ -1620,6 +1620,21 @@ name: "socat",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "sonar-completion",
+flags: [],
+),
+(
+source: Brew(()),
+name: "sonar-scanner",
+flags: [],
+),
+(
+source: Brew(()),
+name: "sonarqube",
+flags: [],
+),
+(
 source: Gem(()),
 name: "sorbet",
 flags: [],
