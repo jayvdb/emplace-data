@@ -660,6 +660,11 @@ name: "github.com/hgfischer/go-iter",
 flags: [],
 ),
 (
+source: Go(()),
+name: "github.com/mgechev/revive",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gitter",
 flags: [],
