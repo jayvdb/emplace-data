@@ -1676,6 +1676,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "spyder",
+flags: [],
+),
+(
+source: Brew(()),
 name: "ssh-askpass",
 flags: [],
 ),
