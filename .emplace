@@ -1021,6 +1021,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "mu-editor",
+flags: [],
+),
+(
+source: Brew(()),
 name: "mupdf",
 flags: [],
 ),
