@@ -256,6 +256,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-quickinstall",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-script",
 flags: [],
 ),
