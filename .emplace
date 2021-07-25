@@ -265,6 +265,11 @@ name: "cargo-script",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "cargo-watch",
+flags: [],
+),
+(
 source: Brew(()),
 name: "cask",
 flags: [],
