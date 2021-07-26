@@ -1790,6 +1790,11 @@ name: "travis",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "trim",
+flags: [],
+),
+(
 source: Brew(()),
 name: "ugrep",
 flags: [],
