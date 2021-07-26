@@ -320,6 +320,11 @@ name: "cmake",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "cmakelang",
+flags: [],
+),
+(
 source: Gem(()),
 name: "codecov",
 flags: [],
