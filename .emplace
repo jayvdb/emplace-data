@@ -526,6 +526,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "eigen",
+flags: [],
+),
+(
+source: Brew(()),
 name: "elm",
 flags: [],
 ),
