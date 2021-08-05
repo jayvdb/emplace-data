@@ -1191,6 +1191,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "opencv@2",
+flags: [],
+),
+(
+source: Brew(()),
 name: "oracle-jdk",
 flags: [],
 ),
