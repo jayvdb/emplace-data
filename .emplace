@@ -2015,6 +2015,11 @@ name: "wget",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "wine-stable",
+flags: [],
+),
+(
 source: Go(()),
 name: "winterdrache.de/goformat/goformat",
 flags: [],
