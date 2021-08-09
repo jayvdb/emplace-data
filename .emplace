@@ -1181,6 +1181,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "nomachine",
+flags: [],
+),
+(
+source: Brew(()),
 name: "open-mpi",
 flags: [],
 ),
