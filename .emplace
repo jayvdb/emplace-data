@@ -105,6 +105,11 @@ name: "Cython",
 flags: [],
 ),
 (
+source: Brew(()),
+name: "FiloSottile/musl-cross/musl-cross",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "Flask",
 flags: [],
@@ -1082,6 +1087,11 @@ flags: [],
 (
 source: Gem(()),
 name: "mimemagic",
+flags: [],
+),
+(
+source: Brew(()),
+name: "mingw-w64",
 flags: [],
 ),
 (
