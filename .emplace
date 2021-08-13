@@ -705,6 +705,11 @@ name: "git-standup",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "git-sweep-merged-and-stale",
+flags: [],
+),
+(
 source: Brew(()),
 name: "git-workspace",
 flags: [],
