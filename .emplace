@@ -680,6 +680,11 @@ name: "git",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "git-delete-merged-branches",
+flags: [],
+),
+(
 source: Brew(()),
 name: "git-gerrit",
 flags: [],
