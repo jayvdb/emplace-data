@@ -686,6 +686,11 @@ flags: [],
 ),
 (
 source: Brew(()),
+name: "git-extras",
+flags: [],
+),
+(
+source: Brew(()),
 name: "git-gerrit",
 flags: [],
 ),
