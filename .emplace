@@ -1540,6 +1540,26 @@ name: "python3.9",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "python310-psycopg",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-pydantic",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-requests",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-uvicorn",
+flags: [],
+),
+(
 source: Brew(()),
 name: "python@3.7",
 flags: [],
