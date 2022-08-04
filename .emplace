@@ -870,6 +870,11 @@ name: "htop",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "hub",
+flags: [],
+),
+(
 source: Brew(()),
 name: "hub",
 flags: [],
