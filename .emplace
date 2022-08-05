@@ -1546,6 +1546,21 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-click",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-fastapi",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-h11",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-psycopg",
 flags: [],
 ),
@@ -1557,6 +1572,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-requests",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-starlette",
 flags: [],
 ),
 (
