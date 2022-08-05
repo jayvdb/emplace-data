@@ -360,6 +360,11 @@ name: "check-manifest",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "chromium",
+flags: [],
+),
+(
 source: Brew(()),
 name: "clang-format",
 flags: [],
