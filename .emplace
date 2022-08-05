@@ -1561,6 +1561,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-mkdocs",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-psycopg",
 flags: [],
 ),
