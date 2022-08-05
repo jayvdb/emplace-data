@@ -1571,6 +1571,21 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pytest",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-pytest-asyncio",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-pytest-cov",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-requests",
 flags: [],
 ),
