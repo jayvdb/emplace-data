@@ -1601,6 +1601,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-typer",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-uvicorn",
 flags: [],
 ),
