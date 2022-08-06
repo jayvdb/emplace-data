@@ -1046,6 +1046,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "libnotify-tools",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "libpulse-devel",
 flags: [],
 ),
