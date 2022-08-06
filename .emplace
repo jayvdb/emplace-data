@@ -1025,8 +1025,18 @@ name: "libicns",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "libinput-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "libjpg",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "libpulse-devel",
 flags: [],
 ),
 (
@@ -1042,6 +1052,11 @@ flags: [],
 (
 source: Brew(()),
 name: "libserialport",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "libudev-devel",
 flags: [],
 ),
 (
