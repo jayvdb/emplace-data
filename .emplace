@@ -800,6 +800,11 @@ name: "gnu-which",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gobject-introspection-devel",
+flags: [],
+),
+(
 source: Go(()),
 name: "golang.org/x/lint/golint",
 flags: [],
