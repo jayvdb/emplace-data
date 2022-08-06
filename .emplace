@@ -1601,6 +1601,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-graphviz",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-h11",
 flags: [],
 ),
