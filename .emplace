@@ -655,6 +655,11 @@ name: "gdb",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gdk-pixbuf-loader-rsvg",
+flags: [],
+),
+(
 source: Brew(()),
 name: "geeqie",
 flags: [],
@@ -1037,6 +1042,11 @@ flags: [],
 (
 source: Brew(()),
 name: "libserialport",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "libxkbcommon-devel",
 flags: [],
 ),
 (
@@ -2130,6 +2140,11 @@ name: "winterdrache.de/goformat/goformat",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "wlroots-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "wmctrl",
 flags: [],
@@ -2152,6 +2167,11 @@ flags: [],
 (
 source: Brew(()),
 name: "xquartz",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "xwayland-devel",
 flags: [],
 ),
 (
