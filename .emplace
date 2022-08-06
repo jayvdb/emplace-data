@@ -1690,6 +1690,11 @@ name: "python310-uvicorn",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "python310-xcffib",
+flags: [],
+),
+(
 source: Brew(()),
 name: "python@3.7",
 flags: [],
