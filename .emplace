@@ -285,6 +285,11 @@ name: "byebug",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "cairo-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "cakebrew",
 flags: [],
