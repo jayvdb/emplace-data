@@ -1611,6 +1611,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pipdeptree",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-psycopg",
 flags: [],
 ),
