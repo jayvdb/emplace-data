@@ -845,6 +845,11 @@ name: "gsts",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gtk-layer-shell",
+flags: [],
+),
+(
 source: Brew(()),
 name: "hadolint",
 flags: [],
