@@ -1601,6 +1601,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-tox",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-typer",
 flags: [],
 ),
