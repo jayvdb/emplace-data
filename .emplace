@@ -1596,6 +1596,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-dbus-python",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-fastapi",
 flags: [],
 ),
