@@ -2231,6 +2231,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "xvfb-run",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "xwayland-devel",
 flags: [],
 ),
