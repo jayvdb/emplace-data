@@ -370,6 +370,11 @@ name: "chromium",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "clang",
+flags: [],
+),
+(
 source: Brew(()),
 name: "clang-format",
 flags: [],
@@ -1077,6 +1082,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "libxkbcommon-devel",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "llvm",
 flags: [],
 ),
 (
