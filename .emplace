@@ -1086,6 +1086,16 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "lld",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "lldb",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "llvm",
 flags: [],
 ),
