@@ -190,6 +190,11 @@ name: "astyle",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "autoconf",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "autoflake",
 flags: [],
@@ -197,6 +202,11 @@ flags: [],
 (
 source: Brew(()),
 name: "autojump",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "automake",
 flags: [],
 ),
 (
@@ -1072,6 +1082,11 @@ flags: [],
 (
 source: Brew(()),
 name: "libserialport",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "libtool",
 flags: [],
 ),
 (
