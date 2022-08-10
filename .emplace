@@ -220,6 +220,11 @@ name: "autopep8",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "aws-cli",
+flags: [],
+),
+(
 source: Brew(()),
 name: "basher",
 flags: [],
