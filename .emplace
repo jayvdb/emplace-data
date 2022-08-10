@@ -140,6 +140,11 @@ name: "Transcrypt",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "act",
+flags: [],
+),
+(
 source: Brew(()),
 name: "act",
 flags: [],
