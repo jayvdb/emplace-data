@@ -725,6 +725,11 @@ name: "git-delete-merged-branches",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "git-extras",
+flags: [],
+),
+(
 source: Brew(()),
 name: "git-extras",
 flags: [],
