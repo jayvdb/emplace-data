@@ -225,6 +225,11 @@ name: "aws-cli",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "bash-completion",
+flags: [],
+),
+(
 source: Brew(()),
 name: "basher",
 flags: [],
