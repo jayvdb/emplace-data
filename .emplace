@@ -2115,6 +2115,36 @@ name: "tenacity",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "terraform-provider-aws",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "terraform-provider-helm",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "terraform-provider-libvirt",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "terraform-provider-null",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "terraform-provider-openstack",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "terraform-provider-template",
+flags: [],
+),
+(
 source: Brew(()),
 name: "terragrunt",
 flags: [],
