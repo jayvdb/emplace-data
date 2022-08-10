@@ -1320,6 +1320,11 @@ name: "nomachine",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "obs-service-go_modules",
+flags: [],
+),
+(
 source: Brew(()),
 name: "open-mpi",
 flags: [],
