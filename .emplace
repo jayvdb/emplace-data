@@ -485,6 +485,11 @@ name: "delta",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "djlint",
+flags: [],
+),
+(
 source: Brew(()),
 name: "dmenu",
 flags: [],
