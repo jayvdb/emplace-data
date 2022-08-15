@@ -725,6 +725,11 @@ name: "gibo",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gimp",
+flags: [],
+),
+(
 source: Brew(()),
 name: "git",
 flags: [],
