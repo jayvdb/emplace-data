@@ -1770,6 +1770,16 @@ name: "python310-xcffib",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "python38",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python39",
+flags: [],
+),
+(
 source: Brew(()),
 name: "python@3.7",
 flags: [],
