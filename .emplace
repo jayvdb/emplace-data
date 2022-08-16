@@ -1140,6 +1140,11 @@ name: "libpython3.8-stdlib",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "libqt5-qtwayland",
+flags: [],
+),
+(
 source: Brew(()),
 name: "libserialport",
 flags: [],
