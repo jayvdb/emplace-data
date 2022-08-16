@@ -485,6 +485,11 @@ name: "delta",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "dia",
+flags: [],
+),
+(
 source: Pip(()),
 name: "djlint",
 flags: [],
