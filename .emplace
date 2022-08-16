@@ -2040,6 +2040,11 @@ name: "sip",
 flags: [],
 ),
 (
+source: Snap(()),
+name: "snapcraft",
+flags: [],
+),
+(
 source: Brew(()),
 name: "sngrep",
 flags: [],
