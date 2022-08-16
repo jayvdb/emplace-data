@@ -570,6 +570,11 @@ name: "doxygen",
 flags: [],
 ),
 (
+source: Snap(()),
+name: "drawio",
+flags: [],
+),
+(
 source: Brew(()),
 name: "duckscript",
 flags: [],
