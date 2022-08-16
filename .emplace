@@ -1850,6 +1850,11 @@ name: "qt-design-studio",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "qt6-wayland",
+flags: [],
+),
+(
 source: Brew(()),
 name: "qt@5",
 flags: [],
