@@ -320,6 +320,11 @@ name: "cakebrew",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "calligra",
+flags: [],
+),
+(
 source: Brew(()),
 name: "capnp",
 flags: [],
@@ -2257,6 +2262,11 @@ flags: [],
 (
 source: Brew(()),
 name: "ugrep",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "umbrello",
 flags: [],
 ),
 (
