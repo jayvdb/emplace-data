@@ -695,6 +695,11 @@ name: "fork-cleaner",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "fossil",
+flags: [],
+),
+(
 source: Brew(()),
 name: "fzf",
 flags: [],
