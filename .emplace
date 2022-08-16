@@ -325,6 +325,36 @@ name: "calligra",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "calligra-extras-converter",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "calligra-extras-okular",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "calligra-karbon",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "calligra-sheets",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "calligra-stage",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "calligra-words",
+flags: [],
+),
+(
 source: Brew(()),
 name: "capnp",
 flags: [],
