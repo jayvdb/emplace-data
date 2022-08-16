@@ -1080,6 +1080,11 @@ name: "kubernetes-cli",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "kwayland",
+flags: [],
+),
+(
 source: Brew(()),
 name: "kwt",
 flags: [],
