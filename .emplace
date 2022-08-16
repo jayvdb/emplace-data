@@ -1370,6 +1370,11 @@ name: "mypy",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "nautilus",
+flags: [],
+),
+(
 source: Brew(()),
 name: "net-tools",
 flags: [],
