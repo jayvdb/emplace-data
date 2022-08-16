@@ -885,6 +885,11 @@ name: "gradle",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "graphviz",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "grcov",
 flags: [],
@@ -992,6 +997,11 @@ flags: [],
 (
 source: Brew(()),
 name: "imgpkg",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "inkscape",
 flags: [],
 ),
 (
