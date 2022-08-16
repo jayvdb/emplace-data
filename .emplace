@@ -331,6 +331,16 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "calligra-extras-dolphin",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "calligra-extras-filemanagertemplates",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "calligra-extras-okular",
 flags: [],
 ),
@@ -347,6 +357,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "calligra-stage",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "calligra-tools",
 flags: [],
 ),
 (
