@@ -2320,6 +2320,11 @@ name: "tcllib",
 flags: [],
 ),
 (
+source: Snap(()),
+name: "telegram-desktop",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "tenacity",
 flags: [],
