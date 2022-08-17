@@ -2550,6 +2550,11 @@ name: "yamllint",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "yarn",
+flags: [],
+),
+(
 source: Brew(()),
 name: "ytt",
 flags: [],
