@@ -1310,6 +1310,11 @@ name: "mas",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "maven",
+flags: [],
+),
+(
 source: Brew(()),
 name: "mc",
 flags: [],
