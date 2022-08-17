@@ -1235,6 +1235,11 @@ name: "libxkbcommon-devel",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "linkstatus",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "lld",
 flags: [],
