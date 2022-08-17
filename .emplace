@@ -2305,6 +2305,11 @@ name: "tcl",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "tcllib",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "tenacity",
 flags: [],
