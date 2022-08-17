@@ -480,6 +480,11 @@ name: "codecov",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "colordiff",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "comtrya",
 flags: [],
@@ -1100,8 +1105,18 @@ name: "kbld",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "kdiff3",
+flags: [],
+),
+(
 source: Brew(()),
 name: "kitty",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "kompare",
 flags: [],
 ),
 (
@@ -1297,6 +1312,11 @@ flags: [],
 (
 source: Gem(()),
 name: "mechanize",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "meld",
 flags: [],
 ),
 (
@@ -2305,6 +2325,11 @@ name: "timeout-decorator",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "tkdiff",
+flags: [],
+),
+(
 source: Brew(()),
 name: "tldr",
 flags: [],
@@ -2407,6 +2432,11 @@ flags: [],
 (
 source: Gem(()),
 name: "warning",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "wdiff",
 flags: [],
 ),
 (
