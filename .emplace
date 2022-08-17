@@ -2285,6 +2285,11 @@ name: "strip-hints",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "structurizr-python",
+flags: [],
+),
+(
 source: Brew(()),
 name: "svn",
 flags: [],
