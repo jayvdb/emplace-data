@@ -1831,6 +1831,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pre-commit",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-psycopg",
 flags: [],
 ),
