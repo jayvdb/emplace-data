@@ -1896,6 +1896,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-urlextract",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-uvicorn",
 flags: [],
 ),
