@@ -1891,6 +1891,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-uritools",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-uvicorn",
 flags: [],
 ),
