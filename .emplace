@@ -2365,6 +2365,11 @@ name: "tkdiff",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "tkimg",
+flags: [],
+),
+(
 source: Brew(()),
 name: "tldr",
 flags: [],
