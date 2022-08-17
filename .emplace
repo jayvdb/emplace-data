@@ -2300,6 +2300,11 @@ name: "tapioca",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "tcl",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "tenacity",
 flags: [],
@@ -2347,6 +2352,11 @@ flags: [],
 (
 source: Pip(()),
 name: "timeout-decorator",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "tk",
 flags: [],
 ),
 (
