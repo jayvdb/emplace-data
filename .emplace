@@ -1070,6 +1070,11 @@ name: "javascripthon",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "joplin-desktop",
+flags: [],
+),
+(
 source: Brew(()),
 name: "jq",
 flags: [],
