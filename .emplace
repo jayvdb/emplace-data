@@ -2390,6 +2390,11 @@ name: "texlive-latex-bin",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "texlive-latexmk",
+flags: [],
+),
+(
 source: Brew(()),
 name: "tfenv",
 flags: [],
