@@ -1525,6 +1525,11 @@ name: "pandas",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "pandoc",
+flags: [],
+),
+(
 source: Brew(()),
 name: "pandoc",
 flags: [],
