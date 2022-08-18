@@ -1491,6 +1491,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "opera",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "opi",
 flags: [],
 ),
