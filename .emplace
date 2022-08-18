@@ -2021,6 +2021,11 @@ flags: [],
 ),
 (
 source: Pip(()),
+name: "rdm[github]",
+flags: [],
+),
+(
+source: Pip(()),
 name: "redis",
 flags: [],
 ),
