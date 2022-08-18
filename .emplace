@@ -2386,6 +2386,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "texlive-lastpage",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "texlive-latex-bin",
 flags: [],
 ),
