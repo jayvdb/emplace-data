@@ -1836,6 +1836,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-jira",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-mkdocs",
 flags: [],
 ),
