@@ -1811,6 +1811,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-PyGithub",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-click",
 flags: [],
 ),
