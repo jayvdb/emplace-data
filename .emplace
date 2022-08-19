@@ -415,6 +415,11 @@ name: "cargo-watch",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "cargo2junit",
+flags: [],
+),
+(
 source: Brew(()),
 name: "cask",
 flags: [],
