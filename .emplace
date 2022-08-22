@@ -1916,6 +1916,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-rich",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-starlette",
 flags: [],
 ),
@@ -1931,7 +1936,17 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-tqdm",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-typer",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-typing-inspect",
 flags: [],
 ),
 (
