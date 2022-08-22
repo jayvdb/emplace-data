@@ -480,6 +480,11 @@ name: "cmakelang",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "code",
+flags: [],
+),
+(
 source: Gem(()),
 name: "codecov",
 flags: [],
@@ -1822,6 +1827,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-PyGithub",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-Sphinx",
 flags: [],
 ),
 (
