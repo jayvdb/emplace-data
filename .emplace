@@ -1956,6 +1956,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-tzlocal",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-uritools",
 flags: [],
 ),
