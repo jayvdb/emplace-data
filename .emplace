@@ -1896,6 +1896,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-py2pack",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pydantic",
 flags: [],
 ),
