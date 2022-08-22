@@ -1826,6 +1826,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-arrow",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-click",
 flags: [],
 ),
