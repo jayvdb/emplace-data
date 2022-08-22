@@ -1841,6 +1841,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-check-manifest",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-click",
 flags: [],
 ),
