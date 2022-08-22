@@ -1871,6 +1871,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pandas",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pipdeptree",
 flags: [],
 ),
@@ -1912,6 +1917,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-starlette",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-tabulate",
 flags: [],
 ),
 (
