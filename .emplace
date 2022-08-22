@@ -1926,6 +1926,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pytest-isort",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pytest-pycodestyle",
 flags: [],
 ),
