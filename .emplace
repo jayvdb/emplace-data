@@ -1355,6 +1355,11 @@ name: "meld",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "memcached",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "memory-profiler",
 flags: [],
