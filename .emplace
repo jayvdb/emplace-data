@@ -1876,6 +1876,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-fsspec",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-graphviz",
 flags: [],
 ),
