@@ -2016,6 +2016,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-sparse",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-starlette",
 flags: [],
 ),
