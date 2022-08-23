@@ -560,6 +560,11 @@ name: "dia",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "discord",
+flags: [],
+),
+(
 source: Pip(()),
 name: "djlint",
 flags: [],
