@@ -1956,6 +1956,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pytest-pydocstyle",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-requests",
 flags: [],
 ),
