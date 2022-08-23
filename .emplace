@@ -1886,6 +1886,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-mo-sql-parsing",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-mypy",
 flags: [],
 ),
