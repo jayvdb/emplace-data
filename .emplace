@@ -30,6 +30,11 @@ name: "black",
 flags: ["--user"],
 ),
 (
+source: Pip(()),
+name: "git+https://github.com/inveniosoftware/dictdiffer",
+flags: ["--user"],
+),
+(
 source: Pip3(()),
 name: "pylint",
 flags: ["--user"],
