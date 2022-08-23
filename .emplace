@@ -775,6 +775,11 @@ name: "fossil",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "fundoc",
+flags: [],
+),
+(
 source: Brew(()),
 name: "fzf",
 flags: [],
