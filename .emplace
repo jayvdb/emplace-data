@@ -1836,6 +1836,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-JPype1",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-PyGithub",
 flags: [],
 ),
