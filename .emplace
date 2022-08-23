@@ -640,6 +640,11 @@ name: "dotnet-sdk",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "dotnet-sdk-6.0",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "dotter",
 flags: [],
