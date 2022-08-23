@@ -1881,6 +1881,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-hypothesis",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-isort",
 flags: [],
 ),
