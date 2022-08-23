@@ -1971,6 +1971,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pytest-lazy-fixture",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pytest-pycodestyle",
 flags: [],
 ),
