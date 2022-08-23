@@ -2001,6 +2001,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-scipy",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-starlette",
 flags: [],
 ),
