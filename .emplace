@@ -1405,6 +1405,11 @@ name: "mocha",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "mono",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "moto",
 flags: [],
