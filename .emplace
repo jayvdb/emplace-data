@@ -1861,6 +1861,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-cloudpickle",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-dbus-python",
 flags: [],
 ),
