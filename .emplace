@@ -1966,6 +1966,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pipx",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pre-commit",
 flags: [],
 ),
