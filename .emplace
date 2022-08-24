@@ -391,6 +391,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-edit",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-eval",
 flags: [],
 ),
