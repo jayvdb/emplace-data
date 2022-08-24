@@ -426,6 +426,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-semver-checks",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-sphinx",
 flags: [],
 ),
