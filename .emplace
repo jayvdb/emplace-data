@@ -411,6 +411,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-sphinx",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-update",
 flags: [],
 ),
