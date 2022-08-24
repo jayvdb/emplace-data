@@ -381,6 +381,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-breaking",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-doc2readme",
 flags: [],
 ),
