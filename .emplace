@@ -1685,6 +1685,11 @@ name: "pkgconfig",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "plantuml",
+flags: [],
+),
+(
 source: Gem(()),
 name: "plist",
 flags: [],
