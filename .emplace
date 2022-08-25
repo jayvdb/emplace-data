@@ -1855,6 +1855,11 @@ name: "python-is-python3",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "python-rpm-macros",
+flags: [],
+),
+(
 source: Apt(()),
 name: "python3-pip",
 flags: [],
