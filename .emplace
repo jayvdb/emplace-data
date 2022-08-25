@@ -1140,6 +1140,11 @@ name: "javascripthon",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "jira-terminal",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "joplin-desktop",
 flags: [],
