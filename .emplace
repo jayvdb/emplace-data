@@ -270,6 +270,11 @@ name: "black",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "bluej-extensions-UMLextension",
+flags: [],
+),
+(
 source: Brew(()),
 name: "boost",
 flags: [],
@@ -2697,6 +2702,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "umbrello",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "umlet",
 flags: [],
 ),
 (
