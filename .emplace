@@ -431,6 +431,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-readme",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-script",
 flags: [],
 ),
