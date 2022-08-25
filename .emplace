@@ -2061,6 +2061,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-rebasehelper",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-requests",
 flags: [],
 ),
