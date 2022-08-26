@@ -2535,6 +2535,11 @@ name: "spyder",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "sqlitebrowser",
+flags: [],
+),
+(
 source: Brew(()),
 name: "ssh-askpass",
 flags: [],
