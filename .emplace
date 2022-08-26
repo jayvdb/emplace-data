@@ -391,6 +391,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-cache",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-doc2readme",
 flags: [],
 ),
