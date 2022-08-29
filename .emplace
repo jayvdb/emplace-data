@@ -386,6 +386,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-about",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-breaking",
 flags: [],
 ),
