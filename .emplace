@@ -401,6 +401,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-deny",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-doc2readme",
 flags: [],
 ),
