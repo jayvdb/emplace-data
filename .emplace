@@ -165,6 +165,11 @@ name: "adoptopenjdk",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "alien",
+flags: [],
+),
+(
 source: Brew(()),
 name: "android-sdk",
 flags: [],
