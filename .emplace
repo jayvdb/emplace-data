@@ -980,6 +980,11 @@ name: "github.com/mgechev/revive",
 flags: [],
 ),
 (
+source: Snap(()),
+name: "gitter",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gitter",
 flags: [],
