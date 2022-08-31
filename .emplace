@@ -2021,6 +2021,21 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-jira-power-tools",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-jirajumper",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-jiratools",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-mdformat",
 flags: [],
 ),
