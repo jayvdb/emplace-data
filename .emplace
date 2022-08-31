@@ -2151,6 +2151,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-ticketutil",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-tox",
 flags: [],
 ),
