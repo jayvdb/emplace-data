@@ -1941,6 +1941,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-JiraLogin",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-PyGithub",
 flags: [],
 ),
