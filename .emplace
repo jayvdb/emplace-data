@@ -2046,6 +2046,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-jira-tracker",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-jirajumper",
 flags: [],
 ),
