@@ -2026,7 +2026,17 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-jira-teamlead",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-jirajumper",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-jiraprompt",
 flags: [],
 ),
 (
