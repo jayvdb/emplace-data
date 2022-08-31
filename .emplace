@@ -2021,6 +2021,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-jira-agile-toolbox",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-jira-commands",
 flags: [],
 ),
