@@ -2021,6 +2021,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-jira-commands",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-jira-power-tools",
 flags: [],
 ),
