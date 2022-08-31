@@ -2026,6 +2026,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-jira-oauth",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-jira-power-tools",
 flags: [],
 ),
