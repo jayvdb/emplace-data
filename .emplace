@@ -2141,6 +2141,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-sprint-velocity",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-starlette",
 flags: [],
 ),
