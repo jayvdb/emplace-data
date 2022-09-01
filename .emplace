@@ -1996,6 +1996,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-django-upgrade",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-fastapi",
 flags: [],
 ),
