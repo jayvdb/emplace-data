@@ -1755,6 +1755,11 @@ name: "poetry",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "postman",
+flags: [],
+),
+(
 source: Brew(()),
 name: "pqiv",
 flags: [],
