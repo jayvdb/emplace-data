@@ -1991,6 +1991,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-django-codemod",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-fastapi",
 flags: [],
 ),
