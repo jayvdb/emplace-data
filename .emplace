@@ -2111,6 +2111,16 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-openapi-schema-validator",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-openapi-spec-validator",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pandas",
 flags: [],
 ),
