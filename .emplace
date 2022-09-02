@@ -1961,6 +1961,26 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-api-mocker-generator",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-apicheck",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-apidoc-to-openapi",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-apispec",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-arrow",
 flags: [],
 ),
@@ -2007,6 +2027,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-fsspec",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-fuzzy-swagger",
 flags: [],
 ),
 (
@@ -2081,6 +2106,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-jsonschema-to-openapi",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-mdformat",
 flags: [],
 ),
@@ -2111,12 +2141,52 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-openapi-cli-tool",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-openapi-resolver",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-openapi-schema-validator",
 flags: [],
 ),
 (
 source: Zypper(()),
 name: "python310-openapi-spec-validator",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-openapi-toolkit",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-openapi-typed-2",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-openapi2jsonschema",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-openapi3",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-openapi3-fuzzer",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-openapispecdiff",
 flags: [],
 ),
 (
@@ -2136,12 +2206,22 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-prance",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pre-commit",
 flags: [],
 ),
 (
 source: Zypper(()),
 name: "python310-psycopg",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-py-openapi-schema-to-json-schema",
 flags: [],
 ),
 (
@@ -2176,6 +2256,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pytest-datafiles",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pytest-isort",
 flags: [],
 ),
@@ -2202,6 +2287,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-requests",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-requests-openapi",
 flags: [],
 ),
 (
