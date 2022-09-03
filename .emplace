@@ -1555,6 +1555,11 @@ name: "nim",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "nix",
+flags: [],
+),
+(
 source: Brew(()),
 name: "nmap",
 flags: [],
