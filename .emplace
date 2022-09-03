@@ -190,6 +190,11 @@ name: "asdf",
 flags: [],
 ),
 (
+source: Nix(()),
+name: "asdf-vm",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "astor",
 flags: [],
