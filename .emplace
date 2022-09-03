@@ -1390,6 +1390,11 @@ name: "lxml",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "lzma-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "macdaily",
 flags: [],
@@ -2482,6 +2487,11 @@ flags: [],
 (
 source: Pip(()),
 name: "rdm[github]",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "readline-devel",
 flags: [],
 ),
 (
