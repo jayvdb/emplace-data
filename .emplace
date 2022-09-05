@@ -2076,6 +2076,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-importlib-resources",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-isort",
 flags: [],
 ),
@@ -2131,7 +2136,17 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-jsonschema-spec",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-jsonschema-to-openapi",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-lazy-object-proxy",
 flags: [],
 ),
 (
