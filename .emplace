@@ -725,6 +725,11 @@ name: "drawio",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "drivestrike",
+flags: [],
+),
+(
 source: Brew(()),
 name: "duckscript",
 flags: [],
