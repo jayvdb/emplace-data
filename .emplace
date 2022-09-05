@@ -2361,6 +2361,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-swagger-spec-validator",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-tabulate",
 flags: [],
 ),
