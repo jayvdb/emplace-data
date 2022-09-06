@@ -2106,6 +2106,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-httpx",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-hypothesis",
 flags: [],
 ),
