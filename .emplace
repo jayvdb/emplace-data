@@ -2166,6 +2166,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-mockintosh",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-moic",
 flags: [],
 ),
