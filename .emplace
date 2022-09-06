@@ -1961,6 +1961,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-CherryPy",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-GitPython",
 flags: [],
 ),
@@ -2017,6 +2022,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-arrow",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-bottle",
 flags: [],
 ),
 (
