@@ -2191,6 +2191,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-jsonpath-rw",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-jsonschema-spec",
 flags: [],
 ),
