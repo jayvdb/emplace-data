@@ -2121,6 +2121,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-hmt",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-httpx",
 flags: [],
 ),
