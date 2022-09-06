@@ -2001,6 +2001,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-PyHamcrest",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-Sphinx",
 flags: [],
 ),
