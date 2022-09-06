@@ -185,6 +185,11 @@ name: "antigen",
 flags: [],
 ),
 (
+source: Npm(()),
+name: "api-spec-converter",
+flags: [],
+),
+(
 source: Brew(()),
 name: "asdf",
 flags: [],
