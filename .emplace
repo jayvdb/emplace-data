@@ -2001,6 +2001,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-apimatic-cli",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-apispec",
 flags: [],
 ),
