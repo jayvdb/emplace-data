@@ -2206,6 +2206,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-mock",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-mockintosh",
 flags: [],
 ),
