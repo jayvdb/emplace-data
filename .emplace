@@ -2291,6 +2291,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pyramid-mock-server",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pytest",
 flags: [],
 ),
