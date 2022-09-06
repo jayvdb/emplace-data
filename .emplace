@@ -2301,6 +2301,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pyramid-swagger",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pytest",
 flags: [],
 ),
