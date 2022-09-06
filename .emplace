@@ -1986,6 +1986,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-WebTest",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-api-mocker-generator",
 flags: [],
 ),
