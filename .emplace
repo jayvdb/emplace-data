@@ -2071,6 +2071,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-falcon-heavy",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-fastapi",
 flags: [],
 ),
