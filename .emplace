@@ -2211,6 +2211,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-meeshkan",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-mkdocs",
 flags: [],
 ),
