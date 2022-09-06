@@ -2416,6 +2416,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pytest-tornado",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-rebasehelper",
 flags: [],
 ),
