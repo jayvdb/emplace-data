@@ -2226,6 +2226,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-mockserver-friendly-client",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-moic",
 flags: [],
 ),
