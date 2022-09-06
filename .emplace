@@ -2091,6 +2091,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-inducoapi",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-isort",
 flags: [],
 ),
