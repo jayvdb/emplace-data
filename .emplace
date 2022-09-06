@@ -2421,6 +2421,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-requests-mock",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-requests-openapi",
 flags: [],
 ),
