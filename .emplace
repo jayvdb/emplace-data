@@ -2051,6 +2051,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-fastapi-code-generator",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-fsspec",
 flags: [],
 ),
