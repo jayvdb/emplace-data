@@ -2426,6 +2426,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-wax-mock",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-xcffib",
 flags: [],
 ),
