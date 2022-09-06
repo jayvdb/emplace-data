@@ -1815,6 +1815,11 @@ name: "psutils",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "pwgen",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "py2pack",
 flags: [],
