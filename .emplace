@@ -2451,6 +2451,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pytest-xdist",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-rebasehelper",
 flags: [],
 ),
