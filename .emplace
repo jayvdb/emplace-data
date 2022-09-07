@@ -2021,6 +2021,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-aioresponses",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-api-mocker-generator",
 flags: [],
 ),
