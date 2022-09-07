@@ -871,6 +871,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "gdbm-devel",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "gdk-pixbuf-loader-rsvg",
 flags: [],
 ),
