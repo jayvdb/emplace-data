@@ -2116,6 +2116,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-flake8",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-fsspec",
 flags: [],
 ),
