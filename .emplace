@@ -3175,6 +3175,11 @@ name: "url-normalize",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "uuid-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "vcsh",
 flags: [],
