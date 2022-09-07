@@ -2601,6 +2601,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python37",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python38",
 flags: [],
 ),
