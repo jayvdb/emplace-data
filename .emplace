@@ -2071,6 +2071,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-cornell",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-dbus-python",
 flags: [],
 ),
@@ -2266,6 +2271,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-mp-mockserver-client",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-mypy",
 flags: [],
 ),
@@ -2352,6 +2362,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-psycopg",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-py-mockserver",
 flags: [],
 ),
 (
