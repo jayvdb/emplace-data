@@ -2481,6 +2481,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-responses",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-rich",
 flags: [],
 ),
