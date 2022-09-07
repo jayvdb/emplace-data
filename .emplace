@@ -2061,6 +2061,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-checkov",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-click",
 flags: [],
 ),
