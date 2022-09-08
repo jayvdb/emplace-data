@@ -2046,6 +2046,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-apigo",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-apimatic-cli",
 flags: [],
 ),
@@ -2366,6 +2371,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pact-python",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pact-state-provider",
 flags: [],
 ),
@@ -2442,6 +2452,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-pyramid-swagger",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-pysmock",
 flags: [],
 ),
 (
