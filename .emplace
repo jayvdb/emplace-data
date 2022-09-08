@@ -2086,6 +2086,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-contractual",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-cornell",
 flags: [],
 ),
@@ -2356,6 +2361,26 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pact",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-pact-state-provider",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-pact-testgen",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-pactman",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pandas",
 flags: [],
 ),
@@ -2452,6 +2477,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-pytest-mock",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-pytest-pact",
 flags: [],
 ),
 (
@@ -2577,6 +2607,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-uvicorn",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-vcr-stub-server",
 flags: [],
 ),
 (
