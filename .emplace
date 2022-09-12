@@ -2106,6 +2106,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-connexion-faker",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-contractual",
 flags: [],
 ),
