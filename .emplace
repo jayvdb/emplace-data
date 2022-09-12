@@ -2651,6 +2651,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-yamllint",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python311",
 flags: [],
 ),
