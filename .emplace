@@ -2551,6 +2551,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-scikit-build",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-scipy",
 flags: [],
 ),
