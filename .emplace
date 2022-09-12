@@ -2606,6 +2606,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-swagger-ui-bundle",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-tabulate",
 flags: [],
 ),
