@@ -1045,6 +1045,11 @@ name: "gobject-introspection-devel",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "golang-github-rhysd-actionlint",
+flags: [],
+),
+(
 source: Go(()),
 name: "golang.org/x/lint/golint",
 flags: [],
