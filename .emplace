@@ -1996,6 +1996,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-Cython",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-GitPython",
 flags: [],
 ),
