@@ -481,6 +481,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-swagg",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-update",
 flags: [],
 ),
