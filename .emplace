@@ -3195,6 +3195,11 @@ name: "tfenv",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "thonny",
+flags: [],
+),
+(
 source: Pip(()),
 name: "timeout-decorator",
 flags: [],
