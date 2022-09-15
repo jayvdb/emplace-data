@@ -1945,6 +1945,11 @@ name: "pyside@2",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "pytest",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "pytest",
 flags: [],
