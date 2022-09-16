@@ -575,6 +575,11 @@ name: "codecov",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "codegenr",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "colordiff",
 flags: [],
