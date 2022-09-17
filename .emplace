@@ -2356,6 +2356,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-ogr",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-openapi-cli-tool",
 flags: [],
 ),
