@@ -1990,6 +1990,11 @@ name: "python3-bodhi",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "python3-packitos",
+flags: [],
+),
+(
 source: Apt(()),
 name: "python3-pip",
 flags: [],
