@@ -1985,6 +1985,11 @@ name: "python-rpm-macros",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "python3-bodhi",
+flags: [],
+),
+(
 source: Apt(()),
 name: "python3-pip",
 flags: [],
