@@ -2626,6 +2626,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-specfile",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-sprint-velocity",
 flags: [],
 ),
