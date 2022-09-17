@@ -2176,6 +2176,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-flexmock",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-fsspec",
 flags: [],
 ),
