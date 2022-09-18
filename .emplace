@@ -2021,6 +2021,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-APIFuzzer",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-CherryPy",
 flags: [],
 ),
