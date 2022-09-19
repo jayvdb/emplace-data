@@ -825,6 +825,11 @@ name: "ffind",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "filezilla",
+flags: [],
+),
+(
 source: Brew(()),
 name: "findutils",
 flags: [],
