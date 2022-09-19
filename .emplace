@@ -1865,6 +1865,11 @@ name: "pycairo",
 flags: [],
 ),
 (
+source: Snap(()),
+name: "pycharm-community",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "pycodestyle",
 flags: [],
