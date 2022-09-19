@@ -1330,6 +1330,11 @@ name: "lcov",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "lftp",
+flags: [],
+),
+(
 source: Brew(()),
 name: "libicns",
 flags: [],
