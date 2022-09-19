@@ -755,6 +755,11 @@ name: "duckscript",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "eclipse",
+flags: [],
+),
+(
 source: Brew(()),
 name: "eigen",
 flags: [],
