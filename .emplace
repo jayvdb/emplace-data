@@ -2456,6 +2456,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-openphi",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pact",
 flags: [],
 ),
