@@ -2266,6 +2266,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-isyntax2raw",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-jira",
 flags: [],
 ),
