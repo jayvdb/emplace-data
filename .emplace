@@ -2606,6 +2606,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-python-sonarqube-api",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-rebasehelper",
 flags: [],
 ),
@@ -2647,6 +2652,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-setuptools_scm",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-sonar-tools",
 flags: [],
 ),
 (
