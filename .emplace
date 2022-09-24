@@ -2461,6 +2461,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-openslide-python",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pact",
 flags: [],
 ),
@@ -2757,6 +2762,16 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-wax-mock",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-wsic",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-wsidicom",
 flags: [],
 ),
 (
