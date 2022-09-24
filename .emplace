@@ -2020,6 +2020,11 @@ name: "python3-pip",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "python3-wsic",
+flags: [],
+),
+(
 source: Apt(()),
 name: "python3.5",
 flags: [],
