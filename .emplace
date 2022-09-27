@@ -2551,6 +2551,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pydicom-data",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pyramid-mock-server",
 flags: [],
 ),
