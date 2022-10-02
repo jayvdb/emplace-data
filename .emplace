@@ -1445,6 +1445,11 @@ name: "llvm@9",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "lua54-luarocks",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "lxml",
 flags: [],
