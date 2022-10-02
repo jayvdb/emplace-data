@@ -1446,6 +1446,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "lua54-devel",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "lua54-luarocks",
 flags: [],
 ),
