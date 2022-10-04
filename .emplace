@@ -1345,6 +1345,11 @@ name: "libinput-devel",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "libjavascriptcoregtk-4_0-18",
+flags: [],
+),
+(
 source: Brew(()),
 name: "libjpg",
 flags: [],
