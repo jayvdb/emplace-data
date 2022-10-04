@@ -3471,6 +3471,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "webkit2gtk3-soup2-devel",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "webkit2gtk4-devel",
 flags: [],
 ),
