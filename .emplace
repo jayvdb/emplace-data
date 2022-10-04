@@ -3465,6 +3465,11 @@ name: "wdiff",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "webkit2gtk4-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "wget",
 flags: [],
