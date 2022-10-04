@@ -2900,6 +2900,11 @@ name: "quicktype",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "quilt",
+flags: [],
+),
+(
 source: Brew(()),
 name: "quilt",
 flags: [],
