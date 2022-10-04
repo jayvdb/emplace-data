@@ -1380,6 +1380,11 @@ name: "libqt5-qtwayland",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "librsvg-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "libserialport",
 flags: [],
