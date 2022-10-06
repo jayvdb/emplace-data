@@ -2596,6 +2596,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pytest-aiohttp",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pytest-asyncio",
 flags: [],
 ),
@@ -2607,6 +2612,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-pytest-datafiles",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-pytest-django",
 flags: [],
 ),
 (
