@@ -2116,6 +2116,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-aiohttp-jinja2",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-aioresponses",
 flags: [],
 ),
