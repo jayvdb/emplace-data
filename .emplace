@@ -2216,6 +2216,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-django-connexion",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-django-upgrade",
 flags: [],
 ),
