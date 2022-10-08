@@ -615,6 +615,21 @@ name: "cpplint",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "cups-airprint",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "cups-backends",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "cups-pdf",
+flags: [],
+),
+(
 source: Brew(()),
 name: "curl",
 flags: [],
@@ -2912,6 +2927,11 @@ flags: [],
 (
 source: Brew(()),
 name: "qt-design-studio",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "qt6-printsupport-cups",
 flags: [],
 ),
 (
