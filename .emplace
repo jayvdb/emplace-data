@@ -880,6 +880,11 @@ name: "fundoc",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "fuse-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "fzf",
 flags: [],
@@ -1335,6 +1340,11 @@ name: "lftp",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "libattr-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "libicns",
 flags: [],
@@ -1472,6 +1482,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "lzma-devel",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "lzo-devel",
 flags: [],
 ),
 (
@@ -3565,6 +3580,11 @@ name: "xwayland-devel",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "xz-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "yadm",
 flags: [],
@@ -3582,6 +3602,11 @@ flags: [],
 (
 source: Brew(()),
 name: "ytt",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "zlib-devel",
 flags: [],
 ),
 (
