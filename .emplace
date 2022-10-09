@@ -1431,6 +1431,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "libusb-devel",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "libxkbcommon-devel",
 flags: [],
 ),
