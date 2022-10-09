@@ -626,6 +626,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "cups-devel",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "cups-pdf",
 flags: [],
 ),
