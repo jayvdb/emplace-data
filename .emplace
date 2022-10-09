@@ -1385,6 +1385,11 @@ name: "libjavascriptcoregtk-4_0-18",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "libjpeg-turbo",
+flags: [],
+),
+(
 source: Brew(()),
 name: "libjpg",
 flags: [],
