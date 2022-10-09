@@ -1350,6 +1350,11 @@ name: "lark-parser",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "lcms2",
+flags: [],
+),
+(
 source: Brew(()),
 name: "lcov",
 flags: [],
