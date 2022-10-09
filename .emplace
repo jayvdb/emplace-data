@@ -1426,6 +1426,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "libtinyxml2-9",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "libtool",
 flags: [],
 ),
