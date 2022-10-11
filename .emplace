@@ -2336,7 +2336,17 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-hatch-fancy-pypi-readme",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-hatch_nodejs_version",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-hatch_vcs",
 flags: [],
 ),
 (
