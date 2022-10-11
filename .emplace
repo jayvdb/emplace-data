@@ -2606,6 +2606,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pdm",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pipdeptree",
 flags: [],
 ),
