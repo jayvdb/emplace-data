@@ -2311,6 +2311,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-flit",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-fsspec",
 flags: [],
 ),
