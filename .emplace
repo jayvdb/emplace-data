@@ -2331,6 +2331,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-hatch",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-hatch_nodejs_version",
 flags: [],
 ),
