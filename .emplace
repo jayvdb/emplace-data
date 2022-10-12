@@ -1330,6 +1330,11 @@ name: "kubectl",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "kubectl-who-can",
+flags: [],
+),
+(
 source: Brew(()),
 name: "kubernetes-cli",
 flags: [],
