@@ -1165,6 +1165,11 @@ name: "haskell-stack",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "helm",
+flags: [],
+),
+(
 source: Brew(()),
 name: "helm",
 flags: [],
