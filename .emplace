@@ -1331,6 +1331,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "kubectl-neat",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "kubectl-who-can",
 flags: [],
 ),
