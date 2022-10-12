@@ -2106,6 +2106,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-aws-cli",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-bodhi",
 flags: [],
 ),
