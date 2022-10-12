@@ -246,6 +246,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "aws-iam-authenticator",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "bash-completion",
 flags: [],
 ),
