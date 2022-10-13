@@ -3635,6 +3635,11 @@ name: "webkit2gtk4-devel",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "wezterm",
+flags: [],
+),
+(
 source: Brew(()),
 name: "wget",
 flags: [],
