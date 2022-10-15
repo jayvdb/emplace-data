@@ -2936,6 +2936,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-whey",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-wsic",
 flags: [],
 ),
