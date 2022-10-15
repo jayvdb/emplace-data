@@ -2166,6 +2166,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-Django",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-GitPython",
 flags: [],
 ),
