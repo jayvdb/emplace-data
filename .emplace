@@ -1760,6 +1760,11 @@ name: "open-mpi",
 flags: [],
 ),
 (
+source: Npm(()),
+name: "openapi-generator",
+flags: [],
+),
+(
 source: Brew(()),
 name: "openblas",
 flags: [],
