@@ -3446,6 +3446,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "terminology",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "terraform-provider-aws",
 flags: [],
 ),
