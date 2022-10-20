@@ -1390,6 +1390,11 @@ name: "libattr-devel",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "libfyaml-fy-tool",
+flags: [],
+),
+(
 source: Brew(()),
 name: "libicns",
 flags: [],
