@@ -2286,6 +2286,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-cloudsmith-cli",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-connexion-faker",
 flags: [],
 ),
