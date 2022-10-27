@@ -2706,6 +2706,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-plugincode",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-prance",
 flags: [],
 ),
