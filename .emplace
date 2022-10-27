@@ -2881,6 +2881,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-scancode-toolkit",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-scikit-build",
 flags: [],
 ),
