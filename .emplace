@@ -2296,6 +2296,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-commoncode",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-connexion-faker",
 flags: [],
 ),
@@ -2681,6 +2686,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pdfminer.six",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pdm",
 flags: [],
 ),
@@ -2857,6 +2867,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-rich",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-saneyaml",
 flags: [],
 ),
 (
