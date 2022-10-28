@@ -2266,6 +2266,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-bitarray",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-bottle",
 flags: [],
 ),
@@ -2297,6 +2302,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-commoncode",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-compiledcode",
 flags: [],
 ),
 (
