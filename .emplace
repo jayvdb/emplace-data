@@ -501,6 +501,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-tomlfmt",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-update",
 flags: [],
 ),
