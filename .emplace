@@ -21,6 +21,11 @@ flags: ["--HEAD"],
 ),
 (
 source: Cargo(()),
+name: "paperclip",
+flags: ["--features cli"],
+),
+(
+source: Cargo(()),
 name: "https://github.com/swift-nav/libsbp.git",
 flags: ["--git"],
 ),
