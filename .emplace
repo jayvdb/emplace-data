@@ -1845,6 +1845,11 @@ name: "pandoc",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "paperclip",
+flags: [],
+),
+(
 source: Gem(()),
 name: "parallel_tests",
 flags: [],
