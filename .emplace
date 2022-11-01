@@ -446,6 +446,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-expand",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-machete",
 flags: [],
 ),
