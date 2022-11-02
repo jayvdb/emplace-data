@@ -960,6 +960,11 @@ name: "gh",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "ghc-hadolint",
+flags: [],
+),
+(
 source: Brew(()),
 name: "ghi",
 flags: [],
