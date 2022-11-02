@@ -1180,6 +1180,11 @@ name: "gtk-layer-shell-devel",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "hadolint",
+flags: [],
+),
+(
 source: Brew(()),
 name: "hadolint",
 flags: [],
