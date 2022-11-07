@@ -1805,6 +1805,11 @@ name: "openapi-generator",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "openapi-interfaces",
+flags: [],
+),
+(
 source: Brew(()),
 name: "openblas",
 flags: [],
