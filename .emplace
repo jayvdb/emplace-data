@@ -30,6 +30,11 @@ name: "https://github.com/swift-nav/libsbp.git",
 flags: ["--git"],
 ),
 (
+source: Cargo(()),
+name: "https://github.com/xbcsmith/ymlfxr",
+flags: ["--git"],
+),
+(
 source: Pip3(()),
 name: "black",
 flags: ["--user"],
