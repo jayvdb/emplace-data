@@ -3830,6 +3830,11 @@ name: "yadm",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "yaml-validator-cli",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "yamllint",
 flags: [],
