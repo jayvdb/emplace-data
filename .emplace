@@ -2621,6 +2621,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-modernize",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-moic",
 flags: [],
 ),
