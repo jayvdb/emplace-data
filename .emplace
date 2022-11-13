@@ -3836,6 +3836,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "xwininfo",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "xz-devel",
 flags: [],
 ),
