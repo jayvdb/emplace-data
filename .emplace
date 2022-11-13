@@ -3810,6 +3810,11 @@ name: "xdotool",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "xkill",
+flags: [],
+),
+(
 source: Brew(()),
 name: "xpdf",
 flags: [],
