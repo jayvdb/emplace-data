@@ -705,6 +705,11 @@ name: "djlint",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "dmenu",
+flags: [],
+),
+(
 source: Brew(()),
 name: "dmenu",
 flags: [],
@@ -1257,6 +1262,11 @@ flags: [],
 (
 source: Pip3(()),
 name: "hypothesis",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "i3",
 flags: [],
 ),
 (
