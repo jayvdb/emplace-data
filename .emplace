@@ -501,6 +501,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-sort",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-sphinx",
 flags: [],
 ),
