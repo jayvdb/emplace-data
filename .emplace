@@ -26,6 +26,11 @@ flags: ["--features cli"],
 ),
 (
 source: Cargo(()),
+name: "https://github.com/nuclearprotocol/toml_sort",
+flags: ["--git"],
+),
+(
+source: Cargo(()),
 name: "https://github.com/swift-nav/libsbp.git",
 flags: ["--git"],
 ),
