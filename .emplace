@@ -3121,6 +3121,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python38-pytest",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python39",
 flags: [],
 ),
