@@ -3126,6 +3126,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python38-pytest-cov",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python39",
 flags: [],
 ),
