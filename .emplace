@@ -3125,6 +3125,11 @@ name: "python39",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "python39-pytest",
+flags: [],
+),
+(
 source: Brew(()),
 name: "python@3.7",
 flags: [],
