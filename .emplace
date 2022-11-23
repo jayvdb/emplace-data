@@ -1835,6 +1835,11 @@ name: "openapi-interfaces",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "openapitor",
+flags: [],
+),
+(
 source: Brew(()),
 name: "openblas",
 flags: [],
