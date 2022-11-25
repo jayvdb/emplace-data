@@ -426,6 +426,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-binstall",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-breaking",
 flags: [],
 ),
