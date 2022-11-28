@@ -150,6 +150,11 @@ name: "PyYAML",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "ShellCheck",
+flags: [],
+),
+(
 source: Brew(()),
 name: "Sphinx",
 flags: [],
