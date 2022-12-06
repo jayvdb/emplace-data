@@ -3935,6 +3935,11 @@ name: "zlib-devel",
 flags: [],
 ),
 (
+source: Snap(()),
+name: "zoom-client",
+flags: [],
+),
+(
 source: Brew(()),
 name: "zsh",
 flags: [],
