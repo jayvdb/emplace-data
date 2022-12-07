@@ -2261,6 +2261,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-AWS-OpenAPI-Lint",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-CherryPy",
 flags: [],
 ),
