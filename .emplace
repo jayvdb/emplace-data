@@ -481,6 +481,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-geiger",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-machete",
 flags: [],
 ),
