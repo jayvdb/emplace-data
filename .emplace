@@ -446,6 +446,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-crev",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-deny",
 flags: [],
 ),
