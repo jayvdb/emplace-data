@@ -710,6 +710,11 @@ name: "curl",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "cvs",
+flags: [],
+),
+(
 source: Brew(()),
 name: "cvs",
 flags: [],
