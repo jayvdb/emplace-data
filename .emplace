@@ -1915,6 +1915,11 @@ name: "osoy",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "osv-scanner",
+flags: [],
+),
+(
 source: Brew(()),
 name: "osxfuse",
 flags: [],
