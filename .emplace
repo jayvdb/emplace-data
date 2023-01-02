@@ -3460,6 +3460,11 @@ name: "sbp",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "scons",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "scriptisto",
 flags: [],
