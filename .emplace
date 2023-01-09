@@ -3745,6 +3745,11 @@ name: "toml-cli",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "toml-fmt",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "tox",
 flags: [],
