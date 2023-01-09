@@ -3340,6 +3340,11 @@ name: "ripgrep-all",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "rmw-toml-fmt",
+flags: [],
+),
+(
 source: Gem(()),
 name: "ronn",
 flags: [],
