@@ -151,6 +151,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "SDL2-devel",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "ShellCheck",
 flags: [],
 ),
