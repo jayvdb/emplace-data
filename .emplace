@@ -1980,6 +1980,11 @@ name: "patch",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "patchelf",
+flags: [],
+),
+(
 source: Gem(()),
 name: "patchelf",
 flags: [],
