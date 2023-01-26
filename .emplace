@@ -2346,6 +2346,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-PyQt6",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-Sphinx",
 flags: [],
 ),
