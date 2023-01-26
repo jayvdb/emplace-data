@@ -2851,6 +2851,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-passlib",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-pdfminer.six",
 flags: [],
 ),
