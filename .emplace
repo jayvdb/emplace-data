@@ -2266,6 +2266,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-pyside6",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-wsic",
 flags: [],
 ),
