@@ -2796,6 +2796,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-opengl",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-openphi",
 flags: [],
 ),
