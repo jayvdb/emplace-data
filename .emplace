@@ -3505,6 +3505,11 @@ name: "shared-mime-info",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "signal-desktop",
+flags: [],
+),
+(
 source: Gem(()),
 name: "simplecov",
 flags: [],
