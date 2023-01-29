@@ -3056,6 +3056,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-rstfmt",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-saneyaml",
 flags: [],
 ),
