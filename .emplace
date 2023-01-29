@@ -1401,6 +1401,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "keybase-client",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "kind",
 flags: [],
 ),
