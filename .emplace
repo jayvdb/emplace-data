@@ -2511,6 +2511,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-fitbit",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-flake8",
 flags: [],
 ),
