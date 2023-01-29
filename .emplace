@@ -3036,6 +3036,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-pyusb",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-rebasehelper",
 flags: [],
 ),
