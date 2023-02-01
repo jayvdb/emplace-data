@@ -491,6 +491,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-local-registry",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-machete",
 flags: [],
 ),
