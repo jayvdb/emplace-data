@@ -735,6 +735,11 @@ name: "dart",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "dbeaver",
+flags: [],
+),
+(
 source: Pip(()),
 name: "dbus-python",
 flags: [],
