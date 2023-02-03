@@ -4016,6 +4016,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "xinetd",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "xkill",
 flags: [],
 ),
