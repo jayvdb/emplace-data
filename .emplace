@@ -2081,6 +2081,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "postgresql15-devel",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "postman",
 flags: [],
 ),
