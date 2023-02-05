@@ -36,6 +36,11 @@ flags: ["--git"],
 ),
 (
 source: Cargo(()),
+name: "https://github.com/tbrand/cargo-tomlfmt",
+flags: ["--git"],
+),
+(
+source: Cargo(()),
 name: "https://github.com/xbcsmith/ymlfxr",
 flags: ["--git"],
 ),
