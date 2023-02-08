@@ -576,6 +576,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-unused-features",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-update",
 flags: [],
 ),
