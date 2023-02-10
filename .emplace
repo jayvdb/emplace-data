@@ -3191,6 +3191,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-toposort",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-tox",
 flags: [],
 ),
