@@ -3216,6 +3216,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-unittest-expander",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-uritools",
 flags: [],
 ),
