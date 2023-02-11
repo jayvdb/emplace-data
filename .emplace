@@ -2446,6 +2446,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-argparse-dataclass",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-arrow",
 flags: [],
 ),
@@ -2657,6 +2662,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-isyntax2raw",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-jgo",
 flags: [],
 ),
 (
