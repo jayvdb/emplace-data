@@ -4126,6 +4126,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "z3",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "zlib-devel",
 flags: [],
 ),
