@@ -2481,6 +2481,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-cjdk",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-click",
 flags: [],
 ),
