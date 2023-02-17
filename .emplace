@@ -1115,6 +1115,11 @@ name: "git-hooks-manager",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "git-lfs",
+flags: [],
+),
+(
 source: Brew(()),
 name: "git-lfs",
 flags: [],
