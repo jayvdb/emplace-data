@@ -1525,6 +1525,11 @@ name: "lcms2",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "lcov",
+flags: [],
+),
+(
 source: Brew(()),
 name: "lcov",
 flags: [],
