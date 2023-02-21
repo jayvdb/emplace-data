@@ -2756,6 +2756,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-lcov",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-maturin",
 flags: [],
 ),
