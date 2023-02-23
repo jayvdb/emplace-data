@@ -1080,6 +1080,11 @@ name: "gimp",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "git",
+flags: [],
+),
+(
 source: Brew(()),
 name: "git",
 flags: [],
