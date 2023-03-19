@@ -446,6 +446,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-audit",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-binstall",
 flags: [],
 ),
