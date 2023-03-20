@@ -3615,6 +3615,11 @@ name: "rust-script",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "rustfilt",
+flags: [],
+),
+(
 source: Rustup(()),
 name: "rustfmt",
 flags: [],
