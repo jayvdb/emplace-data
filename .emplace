@@ -1050,6 +1050,11 @@ name: "geeqie",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "geos-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gh",
 flags: [],
@@ -3032,6 +3037,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python310-pyflakes",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python310-pygeos",
 flags: [],
 ),
 (
