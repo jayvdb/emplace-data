@@ -3911,6 +3911,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "tinyxml-devel",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "tk",
 flags: [],
 ),
