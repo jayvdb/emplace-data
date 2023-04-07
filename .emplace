@@ -655,6 +655,11 @@ name: "clang-tools-6.0",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "clang13",
+flags: [],
+),
+(
 source: Rustup(()),
 name: "clippy",
 flags: [],
