@@ -1030,6 +1030,11 @@ name: "fzf",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gcc-12",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gdb",
 flags: [],
