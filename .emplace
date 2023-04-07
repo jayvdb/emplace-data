@@ -1930,6 +1930,11 @@ name: "obs-service-go_modules",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "oniguruma-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "open-mpi",
 flags: [],
