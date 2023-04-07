@@ -656,6 +656,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "clang10",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "clang11",
 flags: [],
 ),
