@@ -1581,6 +1581,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "libc++-devel",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "libfyaml-fy-tool",
 flags: [],
 ),
