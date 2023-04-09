@@ -1455,6 +1455,11 @@ name: "jq",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "json_diff",
+flags: [],
+),
+(
 source: Brew(()),
 name: "julia",
 flags: [],
