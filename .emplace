@@ -286,6 +286,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "aws-vault",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "bash-completion",
 flags: [],
 ),
