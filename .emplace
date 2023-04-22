@@ -3665,6 +3665,11 @@ name: "runner",
 flags: [],
 ),
 (
+source: Rustup(()),
+name: "rust-analyzer",
+flags: [],
+),
+(
 source: Brew(()),
 name: "rust-analyzer",
 flags: [],
