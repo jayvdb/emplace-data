@@ -1036,6 +1036,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "forkstat",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "fossil",
 flags: [],
 ),
