@@ -2896,6 +2896,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-nox",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-numpy",
 flags: [],
 ),
