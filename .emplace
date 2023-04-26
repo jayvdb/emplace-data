@@ -3366,6 +3366,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-virtualenv-20.22.0",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-wax-mock",
 flags: [],
 ),
