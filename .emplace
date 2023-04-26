@@ -2901,6 +2901,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-nox-2023.4.22-23.1",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-numpy",
 flags: [],
 ),
