@@ -481,6 +481,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-dependency-inheritor",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-dephell",
 flags: [],
 ),
