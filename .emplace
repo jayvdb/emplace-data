@@ -481,6 +481,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-dephell",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-doc2readme",
 flags: [],
 ),
