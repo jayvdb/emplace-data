@@ -526,6 +526,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-hack",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-local-registry",
 flags: [],
 ),
