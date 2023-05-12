@@ -461,6 +461,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-auditable",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-binstall",
 flags: [],
 ),
