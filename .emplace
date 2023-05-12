@@ -1005,6 +1005,11 @@ name: "fetch",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "fetchmsttfonts",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "ffind",
 flags: [],
