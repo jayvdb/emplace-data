@@ -3726,6 +3726,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "rust-audit-info",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "rust-script",
 flags: [],
 ),
