@@ -370,6 +370,11 @@ name: "bundler",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "butane_cli",
+flags: [],
+),
+(
 source: Brew(()),
 name: "bvi",
 flags: [],
