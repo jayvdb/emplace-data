@@ -596,6 +596,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-spdx",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-sphinx",
 flags: [],
 ),
