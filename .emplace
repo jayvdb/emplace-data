@@ -3925,6 +3925,11 @@ name: "swig@3",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "syft",
+flags: [],
+),
+(
 source: Gem(()),
 name: "tapioca",
 flags: [],
