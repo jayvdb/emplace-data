@@ -3710,6 +3710,11 @@ name: "ruby-macho",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "ruby3.2-rubygem-org-ruby",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "rudg",
 flags: [],
