@@ -3711,6 +3711,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "ruby3.2-rubygem-github-markup",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "ruby3.2-rubygem-org-ruby",
 flags: [],
 ),
