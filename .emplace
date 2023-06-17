@@ -2966,6 +2966,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-openai",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-openapi-cli-tool",
 flags: [],
 ),
