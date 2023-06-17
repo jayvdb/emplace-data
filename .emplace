@@ -611,6 +611,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-toml-lint",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-tomlfmt",
 flags: [],
 ),
