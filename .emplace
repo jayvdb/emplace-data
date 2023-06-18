@@ -3131,6 +3131,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-py-serializable",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-py2pack",
 flags: [],
 ),
