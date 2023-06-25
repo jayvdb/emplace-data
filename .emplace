@@ -4341,6 +4341,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "zeal",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "zlib-devel",
 flags: [],
 ),
