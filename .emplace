@@ -506,6 +506,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-docset",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-dylint",
 flags: [],
 ),
