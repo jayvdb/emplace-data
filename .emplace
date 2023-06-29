@@ -1656,6 +1656,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "libaws-c-s30unstable",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "libc++-devel",
 flags: [],
 ),
