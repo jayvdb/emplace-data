@@ -50,6 +50,11 @@ name: "https://github.com/xbcsmith/ymlfxr",
 flags: ["--git"],
 ),
 (
+source: Cargo(()),
+name: "ssh://git@github.com/swift-nav/yamloboros.git",
+flags: ["--git"],
+),
+(
 source: Pip3(()),
 name: "black",
 flags: ["--user"],
