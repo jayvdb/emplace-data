@@ -1525,6 +1525,11 @@ name: "jq",
 flags: [],
 ),
 (
+source: Npm(()),
+name: "js-green-licenses",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "json_diff",
 flags: [],
