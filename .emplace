@@ -2035,6 +2035,11 @@ name: "nodejs",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "nodejs18",
+flags: [],
+),
+(
 source: Gem(()),
 name: "nokogiri",
 flags: [],
