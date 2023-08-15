@@ -1630,6 +1630,11 @@ name: "kwt",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "ladybird",
+flags: [],
+),
+(
 source: Brew(()),
 name: "lapack",
 flags: [],
