@@ -1340,6 +1340,11 @@ name: "golang.org/x/lint/golint",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "golangci-lint",
+flags: [],
+),
+(
 source: Brew(()),
 name: "golangci-lint",
 flags: [],
