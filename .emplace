@@ -4015,6 +4015,11 @@ name: "syft",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "tailscale",
+flags: [],
+),
+(
 source: Gem(()),
 name: "tapioca",
 flags: [],
