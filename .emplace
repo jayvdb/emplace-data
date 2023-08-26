@@ -3801,6 +3801,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "ruget",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "ruml",
 flags: [],
 ),
