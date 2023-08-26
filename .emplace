@@ -1970,6 +1970,11 @@ name: "moto",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "mprocs",
+flags: [],
+),
+(
 source: Brew(()),
 name: "mr",
 flags: [],
