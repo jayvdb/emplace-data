@@ -1455,6 +1455,16 @@ name: "hub",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "hurl",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "hx",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "hyperlink",
 flags: [],
@@ -3687,6 +3697,11 @@ flags: [],
 (
 source: Pip(()),
 name: "requests-mock",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "rh",
 flags: [],
 ),
 (
