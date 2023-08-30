@@ -1290,6 +1290,11 @@ name: "github.com/mgechev/revive",
 flags: [],
 ),
 (
+source: Go(()),
+name: "github.com/norwoodj/helm-docs/cmd/helm-docs",
+flags: [],
+),
+(
 source: Snap(()),
 name: "gitter",
 flags: [],
