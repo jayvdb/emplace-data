@@ -1640,6 +1640,11 @@ name: "kubernetes-cli",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "kubetui",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "kwayland",
 flags: [],
