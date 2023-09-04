@@ -2270,6 +2270,11 @@ name: "pipx",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "pjs",
+flags: [],
+),
+(
 source: Brew(()),
 name: "pkg-config",
 flags: [],
