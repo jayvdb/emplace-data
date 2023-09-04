@@ -1540,6 +1540,11 @@ name: "joplin-desktop",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "joxide",
+flags: [],
+),
+(
 source: Brew(()),
 name: "jq",
 flags: [],
