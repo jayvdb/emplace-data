@@ -1560,6 +1560,11 @@ name: "json_diff",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "jsona-cli",
+flags: [],
+),
+(
 source: Brew(()),
 name: "julia",
 flags: [],
