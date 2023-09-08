@@ -1250,6 +1250,11 @@ name: "git-workspace",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gitg",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gitg",
 flags: [],
