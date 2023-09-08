@@ -1300,6 +1300,11 @@ name: "github.com/norwoodj/helm-docs/cmd/helm-docs",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gitk",
+flags: [],
+),
+(
 source: Snap(()),
 name: "gitter",
 flags: [],
