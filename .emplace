@@ -1610,8 +1610,23 @@ name: "kind",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "kitty",
+flags: [],
+),
+(
 source: Brew(()),
 name: "kitty",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "kitty-shell-integration",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "kitty-terminfo",
 flags: [],
 ),
 (
