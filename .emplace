@@ -970,6 +970,11 @@ name: "duckscript",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "dylint-link",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "eclipse",
 flags: [],
