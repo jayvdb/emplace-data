@@ -855,6 +855,11 @@ name: "dia",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "dify",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "discord",
 flags: [],
