@@ -295,6 +295,11 @@ name: "aws-vault",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "bacon",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "bash-completion",
 flags: [],
