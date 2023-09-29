@@ -556,6 +556,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-limit",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-llvm-cov",
 flags: [],
 ),
