@@ -3606,6 +3606,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python311-matplotlib",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python36",
 flags: [],
 ),
