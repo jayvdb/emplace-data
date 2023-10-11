@@ -3611,6 +3611,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python311-pandas",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python312",
 flags: [],
 ),
