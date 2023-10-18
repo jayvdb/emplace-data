@@ -4535,6 +4535,11 @@ name: "zeal",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "zellij",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "zlib-devel",
 flags: [],
