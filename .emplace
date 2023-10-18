@@ -3965,6 +3965,11 @@ name: "scons",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "screen",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "scriptisto",
 flags: [],
@@ -4257,6 +4262,11 @@ flags: [],
 (
 source: Brew(()),
 name: "tldr",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "tmux",
 flags: [],
 ),
 (
