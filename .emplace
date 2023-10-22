@@ -466,6 +466,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-all-features",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-audit",
 flags: [],
 ),
