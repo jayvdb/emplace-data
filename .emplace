@@ -1491,6 +1491,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "httpie",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "hub",
 flags: [],
 ),
