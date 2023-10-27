@@ -1490,6 +1490,11 @@ name: "homebrew/cask/docker",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "html2pdf",
+flags: [],
+),
+(
 source: Brew(()),
 name: "htop",
 flags: [],
