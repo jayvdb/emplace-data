@@ -1980,6 +1980,11 @@ name: "mc",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "mdbook-tectonic",
+flags: [],
+),
+(
 source: Gem(()),
 name: "mdl",
 flags: [],
