@@ -1970,6 +1970,11 @@ name: "mactex",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "markdown2html-converter",
+flags: [],
+),
+(
 source: Brew(()),
 name: "mas",
 flags: [],
