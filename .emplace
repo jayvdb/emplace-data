@@ -765,6 +765,11 @@ name: "cmakelang",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "cmark2tex",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "code",
 flags: [],
