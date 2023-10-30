@@ -876,6 +876,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "dhex",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "dia",
 flags: [],
 ),
