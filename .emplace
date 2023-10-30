@@ -4400,6 +4400,11 @@ name: "vgrep",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "viewimg",
+flags: [],
+),
+(
 source: Brew(()),
 name: "virtualbox",
 flags: [],
