@@ -341,6 +341,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "bless",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "bluej-extensions-UMLextension",
 flags: [],
 ),
