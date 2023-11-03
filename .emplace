@@ -1165,6 +1165,11 @@ name: "gcc-12",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gcc-fortran",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gdb",
 flags: [],
