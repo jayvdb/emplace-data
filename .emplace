@@ -2435,6 +2435,11 @@ name: "pre-commit",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "proj-devel",
+flags: [],
+),
+(
 source: Pip(()),
 name: "pscript",
 flags: [],
