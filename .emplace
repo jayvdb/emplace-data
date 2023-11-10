@@ -4575,6 +4575,11 @@ name: "yarn",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "yj",
+flags: [],
+),
+(
 source: Brew(()),
 name: "ytt",
 flags: [],
