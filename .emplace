@@ -656,6 +656,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-tree",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-udeps",
 flags: [],
 ),
