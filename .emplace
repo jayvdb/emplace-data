@@ -1630,6 +1630,11 @@ name: "jq",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "jql",
+flags: [],
+),
+(
 source: Npm(()),
 name: "js-green-licenses",
 flags: [],
