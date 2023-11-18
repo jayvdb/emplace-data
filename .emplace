@@ -1595,6 +1595,11 @@ name: "invoke",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "jaq",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "java-1_8_0-openjdk",
 flags: [],
