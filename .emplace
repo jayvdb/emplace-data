@@ -4535,6 +4535,11 @@ name: "xpdf",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "xq",
+flags: [],
+),
+(
 source: Brew(()),
 name: "xquartz",
 flags: [],
