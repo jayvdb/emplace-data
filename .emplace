@@ -596,6 +596,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-nextest",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-play",
 flags: [],
 ),
