@@ -606,6 +606,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-prefetch",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-public-api",
 flags: [],
 ),
