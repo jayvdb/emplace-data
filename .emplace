@@ -696,6 +696,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-zigbuild",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo2junit",
 flags: [],
 ),
