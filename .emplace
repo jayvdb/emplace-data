@@ -2425,6 +2425,11 @@ name: "pmw",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "pnpm",
+flags: [],
+),
+(
 source: Brew(()),
 name: "pnpm",
 flags: [],
