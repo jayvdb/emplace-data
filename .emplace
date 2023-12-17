@@ -2851,6 +2851,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python310-commitizen",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python310-commoncode",
 flags: [],
 ),
