@@ -2661,6 +2661,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-toposort",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-unittest-expander",
 flags: [],
 ),
