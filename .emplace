@@ -2646,6 +2646,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-black",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-bodhi",
 flags: [],
 ),
