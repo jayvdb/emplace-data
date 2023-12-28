@@ -2661,6 +2661,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-unittest-expander",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-wsic",
 flags: [],
 ),
