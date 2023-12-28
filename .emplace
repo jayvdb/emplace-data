@@ -2636,6 +2636,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-argparse-dataclass",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-aws-cli",
 flags: [],
 ),
