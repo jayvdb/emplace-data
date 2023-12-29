@@ -820,6 +820,11 @@ name: "comtrya",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "conan",
+flags: [],
+),
+(
 source: Gem(()),
 name: "concurrent-ruby",
 flags: [],
