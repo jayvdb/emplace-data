@@ -250,6 +250,11 @@ name: "astunparse",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "astyle",
+flags: [],
+),
+(
 source: Brew(()),
 name: "astyle",
 flags: [],
