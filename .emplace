@@ -4266,6 +4266,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "tcc",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "tcl",
 flags: [],
 ),
