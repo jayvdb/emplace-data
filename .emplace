@@ -2686,6 +2686,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-tox",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-unittest-expander",
 flags: [],
 ),
