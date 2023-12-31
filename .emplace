@@ -1675,6 +1675,11 @@ name: "jsona-cli",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "julia",
+flags: [],
+),
+(
 source: Brew(()),
 name: "julia",
 flags: [],
