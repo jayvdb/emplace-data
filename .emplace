@@ -2705,6 +2705,11 @@ name: "python3-wsic",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "python3-z3",
+flags: [],
+),
+(
 source: Apt(()),
 name: "python3.5",
 flags: [],
