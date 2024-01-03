@@ -2686,6 +2686,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-pytest-cov",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-toposort",
 flags: [],
 ),
