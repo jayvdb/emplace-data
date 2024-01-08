@@ -1140,6 +1140,11 @@ name: "flake8-quotes",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "flutter",
+flags: [],
+),
+(
 source: Brew(()),
 name: "flutter",
 flags: [],
