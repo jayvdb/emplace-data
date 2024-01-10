@@ -3900,6 +3900,11 @@ name: "rapydscript-ng",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "rclone",
+flags: [],
+),
+(
 source: Brew(()),
 name: "rcm",
 flags: [],
