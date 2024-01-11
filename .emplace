@@ -576,6 +576,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-information",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-limit",
 flags: [],
 ),
