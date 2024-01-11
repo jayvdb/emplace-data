@@ -2200,6 +2200,11 @@ name: "ngrep",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "nim",
+flags: [],
+),
+(
 source: Brew(()),
 name: "nim",
 flags: [],
