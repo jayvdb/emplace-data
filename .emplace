@@ -2676,6 +2676,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-arrow",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-aws-cli",
 flags: [],
 ),
@@ -2697,6 +2702,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python3-croniter",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-django-picklefield",
 flags: [],
 ),
 (
