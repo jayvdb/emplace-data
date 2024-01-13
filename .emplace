@@ -2666,6 +2666,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-Django",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-argparse-dataclass",
 flags: [],
 ),
