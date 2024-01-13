@@ -2711,6 +2711,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-pytest-django",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-toposort",
 flags: [],
 ),
