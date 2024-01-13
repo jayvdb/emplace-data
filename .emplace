@@ -2691,12 +2691,47 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-boto3",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-croniter",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-django-redis",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-hiredis",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-iron-mq",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-packitos",
 flags: [],
 ),
 (
 source: Apt(()),
 name: "python3-pip",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-psutil",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-pymongo",
 flags: [],
 ),
 (
