@@ -4530,6 +4530,11 @@ name: "trim",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "typos-cli",
+flags: [],
+),
+(
 source: Brew(()),
 name: "ugrep",
 flags: [],
