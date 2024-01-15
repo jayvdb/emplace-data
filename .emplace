@@ -946,6 +946,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "dkms",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "dmenu",
 flags: [],
 ),
@@ -1635,6 +1640,11 @@ name: "invoke",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "iw",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "jaq",
 flags: [],
@@ -2142,6 +2152,11 @@ flags: [],
 (
 source: Snap(()),
 name: "mockoon",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "mokutil",
 flags: [],
 ),
 (
@@ -4012,6 +4027,11 @@ flags: [],
 (
 source: Pip(()),
 name: "requests-mock",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "rfkill",
 flags: [],
 ),
 (
