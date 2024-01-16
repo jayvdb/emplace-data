@@ -1155,6 +1155,11 @@ name: "flake8-quotes",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "flamegraph",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "flutter",
 flags: [],
