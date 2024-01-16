@@ -1446,6 +1446,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "gnuplot",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "go1.20",
 flags: [],
 ),
