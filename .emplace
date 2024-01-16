@@ -2746,6 +2746,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-djlint",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-hiredis",
 flags: [],
 ),
