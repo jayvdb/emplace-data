@@ -2796,6 +2796,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-pytest-xdist",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-toposort",
 flags: [],
 ),
