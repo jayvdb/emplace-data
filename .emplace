@@ -521,6 +521,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-criterion",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-deny",
 flags: [],
 ),
