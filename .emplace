@@ -2440,6 +2440,11 @@ name: "pendulum",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "perf",
+flags: [],
+),
+(
 source: Brew(()),
 name: "pgrep",
 flags: [],
