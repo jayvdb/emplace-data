@@ -621,6 +621,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-outdated",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-play",
 flags: [],
 ),
