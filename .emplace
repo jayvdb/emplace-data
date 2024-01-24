@@ -3940,6 +3940,11 @@ name: "pyzo",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "qgit",
+flags: [],
+),
+(
 source: Brew(()),
 name: "qpdf",
 flags: [],
