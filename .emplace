@@ -225,6 +225,11 @@ name: "antigen",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "apache2",
+flags: [],
+),
+(
 source: Npm(()),
 name: "api-spec-converter",
 flags: [],
