@@ -4735,6 +4735,11 @@ name: "wezterm",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "wezterm-20230712.072601.f4abf8fd+git390-117.1.x86_64",
+flags: [],
+),
+(
 source: Brew(()),
 name: "wget",
 flags: [],
