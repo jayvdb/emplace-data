@@ -1240,6 +1240,11 @@ name: "gcc-fortran",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gcc-objc",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gdb",
 flags: [],
