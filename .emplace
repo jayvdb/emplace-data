@@ -365,6 +365,11 @@ name: "bluej-extensions-UMLextension",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "blueprint-cursor-theme",
+flags: [],
+),
+(
 source: Brew(()),
 name: "boost",
 flags: [],
@@ -377,6 +382,11 @@ flags: [],
 (
 source: Pip3(()),
 name: "boto3",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "breeze5-cursors",
 flags: [],
 ),
 (
@@ -977,6 +987,11 @@ flags: [],
 (
 source: Pip3(()),
 name: "dmgbuild",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "dmz-icon-theme-cursors",
 flags: [],
 ),
 (
@@ -2372,6 +2387,11 @@ flags: [],
 (
 source: Brew(()),
 name: "osxfuse",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "oxygen5-cursors",
 flags: [],
 ),
 (
@@ -4607,6 +4627,11 @@ flags: [],
 (
 source: Pip(()),
 name: "trim",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "tuxcursors",
 flags: [],
 ),
 (
