@@ -4765,6 +4765,11 @@ name: "wmctrl",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "xcursor-themes",
+flags: [],
+),
+(
 source: Brew(()),
 name: "xdot",
 flags: [],
