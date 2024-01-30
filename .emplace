@@ -206,6 +206,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "alacritty",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "alien",
 flags: [],
 ),
