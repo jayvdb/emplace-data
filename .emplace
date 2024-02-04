@@ -2806,6 +2806,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-flake8",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-hiredis",
 flags: [],
 ),
