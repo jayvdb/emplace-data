@@ -1235,6 +1235,11 @@ name: "fossil",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "fslint",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "fundoc",
 flags: [],
