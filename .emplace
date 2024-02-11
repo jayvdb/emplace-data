@@ -250,6 +250,11 @@ name: "asdf-vm",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "aspell",
+flags: [],
+),
+(
 source: Pip3(()),
 name: "astor",
 flags: [],
@@ -1640,6 +1645,11 @@ name: "hub",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "hunspell",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "hurl",
 flags: [],
@@ -1697,6 +1707,11 @@ flags: [],
 (
 source: Pip(()),
 name: "invoke",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "ispell",
 flags: [],
 ),
 (
