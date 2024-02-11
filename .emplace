@@ -1555,6 +1555,11 @@ name: "grep",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gspell",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gsts",
 flags: [],
@@ -1650,6 +1655,11 @@ name: "hunspell",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "hunspell-tools",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "hurl",
 flags: [],
@@ -1712,6 +1722,16 @@ flags: [],
 (
 source: Zypper(()),
 name: "ispell",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "ispell-american",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "ispell-british",
 flags: [],
 ),
 (
@@ -2272,6 +2292,11 @@ flags: [],
 (
 source: Brew(()),
 name: "mypy",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "myspell-en_GB",
 flags: [],
 ),
 (
@@ -2871,6 +2896,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-pyspellchecker",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-pytest-cov",
 flags: [],
 ),
@@ -2882,6 +2912,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "python3-pytest-xdist",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-scspell3k",
 flags: [],
 ),
 (
