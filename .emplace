@@ -961,6 +961,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "didyoumean",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "dify",
 flags: [],
 ),
