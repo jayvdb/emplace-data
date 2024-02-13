@@ -671,6 +671,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-rdme",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-readme",
 flags: [],
 ),
