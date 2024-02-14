@@ -536,6 +536,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-check-external-types",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-cranky",
 flags: [],
 ),
