@@ -1170,6 +1170,11 @@ name: "fd",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "fd-find",
+flags: [],
+),
+(
 source: Brew(()),
 name: "fetch",
 flags: [],
