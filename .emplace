@@ -1810,6 +1810,11 @@ name: "julia",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "just",
+flags: [],
+),
+(
 source: Brew(()),
 name: "jvgrep",
 flags: [],
