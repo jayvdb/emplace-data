@@ -2876,6 +2876,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-docker-compose",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-flake8",
 flags: [],
 ),
