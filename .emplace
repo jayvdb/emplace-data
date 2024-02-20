@@ -2595,6 +2595,11 @@ name: "plantuml",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "plantuml-server-client-rs",
+flags: [],
+),
+(
 source: Gem(()),
 name: "plist",
 flags: [],
