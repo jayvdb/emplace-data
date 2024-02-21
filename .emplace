@@ -2590,6 +2590,11 @@ name: "pkgconfig",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "plantaznik",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "plantuml",
 flags: [],
