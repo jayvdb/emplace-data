@@ -2036,6 +2036,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "libosmocodec4",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "libpulse-devel",
 flags: [],
 ),
@@ -2087,6 +2092,11 @@ flags: [],
 (
 source: Zypper(()),
 name: "libusb-devel",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "libxine2-codecs",
 flags: [],
 ),
 (
