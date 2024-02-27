@@ -1575,6 +1575,16 @@ name: "gspell",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "gstreamer-plugins-bad-codecs",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "gstreamer-plugins-ugly-codecs",
+flags: [],
+),
+(
 source: Brew(()),
 name: "gsts",
 flags: [],
