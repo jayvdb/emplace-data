@@ -805,6 +805,11 @@ name: "clang",
 flags: [],
 ),
 (
+source: Zypper(()),
+name: "clang-devel",
+flags: [],
+),
+(
 source: Brew(()),
 name: "clang-format",
 flags: [],
