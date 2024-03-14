@@ -706,6 +706,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-spellcheck",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-sphinx",
 flags: [],
 ),
