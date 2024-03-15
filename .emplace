@@ -70,6 +70,11 @@ name: "pylint",
 flags: ["--user"],
 ),
 (
+source: Zypper(()),
+name: "1password",
+flags: [],
+),
+(
 source: Apt(()),
 name: "85",
 flags: [],
