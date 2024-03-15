@@ -5109,4 +5109,9 @@ source: Brew(()),
 name: "zshdb",
 flags: [],
 ),
+(
+source: Cargo(()),
+name: "zspell-cli",
+flags: [],
+),
 ])
