@@ -1620,6 +1620,11 @@ name: "hadolint",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "harper-ls",
+flags: [],
+),
+(
 source: Brew(()),
 name: "hashlink",
 flags: [],
