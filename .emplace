@@ -4810,6 +4810,16 @@ name: "tuxcursors",
 flags: [],
 ),
 (
+source: Npm(()),
+name: "typescript",
+flags: [],
+),
+(
+source: Npm(()),
+name: "typescript-language-server",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "typos-cli",
 flags: [],
