@@ -2176,6 +2176,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "lua-language-server",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "lua54-devel",
 flags: [],
 ),
@@ -2961,6 +2966,16 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-pylsp-isort",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-pylsp-rope",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-pymongo",
 flags: [],
 ),
@@ -2987,6 +3002,16 @@ flags: [],
 (
 source: Zypper(()),
 name: "python3-pytest-xdist",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-python-lsp-server",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "python3-rpm-spec-language-server",
 flags: [],
 ),
 (
