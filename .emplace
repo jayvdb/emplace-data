@@ -981,6 +981,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "deno",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "dhex",
 flags: [],
 ),
