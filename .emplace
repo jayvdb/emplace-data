@@ -4280,6 +4280,11 @@ name: "requests-mock",
 flags: [],
 ),
 (
+source: Cargo(()),
+name: "reshape",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "rfkill",
 flags: [],
