@@ -1565,6 +1565,11 @@ name: "golangci-lint",
 flags: [],
 ),
 (
+source: Snap(()),
+name: "google-cloud-sdk",
+flags: [],
+),
+(
 source: Brew(()),
 name: "googletest",
 flags: [],
