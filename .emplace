@@ -3021,6 +3021,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-rdb-cli",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-redisamp",
 flags: [],
 ),
