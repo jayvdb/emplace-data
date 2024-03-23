@@ -3021,6 +3021,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-redisamp",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-rpm-spec-language-server",
 flags: [],
 ),
