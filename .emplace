@@ -1391,6 +1391,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "git-delta",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "git-extras",
 flags: [],
 ),
