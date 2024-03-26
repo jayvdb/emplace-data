@@ -2381,6 +2381,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "myspell-en_AU",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "myspell-en_GB",
 flags: [],
 ),
