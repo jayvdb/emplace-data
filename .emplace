@@ -1460,6 +1460,11 @@ name: "gitg",
 flags: [],
 ),
 (
+source: Gem(()),
+name: "github-linguist",
+flags: [],
+),
+(
 source: Go(()),
 name: "github.com/adsharma/py2many",
 flags: [],
