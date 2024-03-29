@@ -2936,6 +2936,11 @@ flags: [],
 ),
 (
 source: Zypper(()),
+name: "python3-codespell",
+flags: [],
+),
+(
+source: Zypper(()),
 name: "python3-croniter",
 flags: [],
 ),
